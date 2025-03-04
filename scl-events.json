@@ -1148,10 +1148,11 @@
   {
     "id": 1760691,
     "startTime": 1741109080000,
-    "lastUpdatedTime": 1741110363000,
+    "lastUpdatedTime": 1741110723000,
     "etrTime": 1741131852000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "193441",
     "latitude": 47.55601,
@@ -1239,8 +1240,8 @@
   {
     "id": 1760707,
     "startTime": 1741110484000,
-    "lastUpdatedTime": 1741110603000,
-    "etrTime": 1741110603000,
+    "lastUpdatedTime": 1741110963000,
+    "etrTime": 1741110964000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
