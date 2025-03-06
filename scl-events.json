@@ -2,8 +2,8 @@
   {
     "id": 1762989,
     "startTime": 1741292612000,
-    "lastUpdatedTime": 1741297203000,
-    "etrTime": 1741318712000,
+    "lastUpdatedTime": 1741298043000,
+    "etrTime": 1741319612000,
     "title": "Outage",
     "numPeople": 2,
     "status": "Dispatched",
@@ -94,8 +94,8 @@
   {
     "id": 1762779,
     "startTime": 1741274156000,
-    "lastUpdatedTime": 1741297203000,
-    "etrTime": 1741318712000,
+    "lastUpdatedTime": 1741298043000,
+    "etrTime": 1741319612000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -186,8 +186,8 @@
   {
     "id": 1762969,
     "startTime": 1741288765000,
-    "lastUpdatedTime": 1741297203000,
-    "etrTime": 1741318712000,
+    "lastUpdatedTime": 1741298043000,
+    "etrTime": 1741319612000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -278,8 +278,8 @@
   {
     "id": 1762977,
     "startTime": 1741290695000,
-    "lastUpdatedTime": 1741297203000,
-    "etrTime": 1741318712000,
+    "lastUpdatedTime": 1741298043000,
+    "etrTime": 1741319612000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -370,8 +370,8 @@
   {
     "id": 1762982,
     "startTime": 1741291533000,
-    "lastUpdatedTime": 1741297203000,
-    "etrTime": 1741318712000,
+    "lastUpdatedTime": 1741298043000,
+    "etrTime": 1741319612000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -462,8 +462,8 @@
   {
     "id": 1762997,
     "startTime": 1741294810000,
-    "lastUpdatedTime": 1741297203000,
-    "etrTime": 1741318712000,
+    "lastUpdatedTime": 1741298043000,
+    "etrTime": 1741319612000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -554,8 +554,8 @@
   {
     "id": 1763003,
     "startTime": 1741295496000,
-    "lastUpdatedTime": 1741297203000,
-    "etrTime": 1741318712000,
+    "lastUpdatedTime": 1741298043000,
+    "etrTime": 1741319612000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -646,8 +646,8 @@
   {
     "id": 1763007,
     "startTime": 1741297103000,
-    "lastUpdatedTime": 1741297563000,
-    "etrTime": 1741318712000,
+    "lastUpdatedTime": 1741298043000,
+    "etrTime": 1741319612000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -733,6 +733,97 @@
       "hasM": false
     },
     "city": "South Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1763010,
+    "startTime": 1741297791000,
+    "lastUpdatedTime": 1741298043000,
+    "etrTime": 1741319612000,
+    "title": "Outage",
+    "numPeople": 1,
+    "cause": "Investigating",
+    "identifier": "193557",
+    "latitude": 47.76382,
+    "longitude": -122.29407,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.29391,
+            47.76358
+          ],
+          [
+            -122.29402,
+            47.76351
+          ],
+          [
+            -122.29414,
+            47.7635
+          ],
+          [
+            -122.29426,
+            47.76353
+          ],
+          [
+            -122.29438,
+            47.76361
+          ],
+          [
+            -122.29445,
+            47.76372
+          ],
+          [
+            -122.29447,
+            47.76384
+          ],
+          [
+            -122.29445,
+            47.76396
+          ],
+          [
+            -122.29438,
+            47.76406
+          ],
+          [
+            -122.29424,
+            47.76415
+          ],
+          [
+            -122.29412,
+            47.76418
+          ],
+          [
+            -122.294,
+            47.76415
+          ],
+          [
+            -122.29386,
+            47.76406
+          ],
+          [
+            -122.29379,
+            47.76396
+          ],
+          [
+            -122.29377,
+            47.76382
+          ],
+          [
+            -122.29381,
+            47.76368
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "North Seattle",
     "state": "WA"
   }
 ]
