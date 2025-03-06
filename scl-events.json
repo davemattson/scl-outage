@@ -646,10 +646,11 @@
   {
     "id": 1763007,
     "startTime": 1741297103000,
-    "lastUpdatedTime": 1741297203000,
+    "lastUpdatedTime": 1741297563000,
     "etrTime": 1741318712000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "193556",
     "latitude": 47.60188,
