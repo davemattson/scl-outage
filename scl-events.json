@@ -2,8 +2,8 @@
   {
     "id": 1763840,
     "startTime": 1741550901000,
-    "lastUpdatedTime": 1741551602000,
-    "etrTime": 1741573103000,
+    "lastUpdatedTime": 1741552443000,
+    "etrTime": 1741574003000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -93,8 +93,8 @@
   {
     "id": 1763841,
     "startTime": 1741551053000,
-    "lastUpdatedTime": 1741551602000,
-    "etrTime": 1741573103000,
+    "lastUpdatedTime": 1741552443000,
+    "etrTime": 1741574003000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -184,8 +184,8 @@
   {
     "id": 1763842,
     "startTime": 1741551209000,
-    "lastUpdatedTime": 1741551602000,
-    "etrTime": 1741573103000,
+    "lastUpdatedTime": 1741552443000,
+    "etrTime": 1741574003000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -263,97 +263,6 @@
           [
             -122.29627,
             47.5917
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "South Seattle",
-    "state": "WA"
-  },
-  {
-    "id": 1763843,
-    "startTime": 1741551349000,
-    "lastUpdatedTime": 1741551602000,
-    "etrTime": 1741573103000,
-    "title": "Outage",
-    "numPeople": 1,
-    "cause": "Investigating",
-    "identifier": "193618",
-    "latitude": 47.60602,
-    "longitude": -122.32323,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.32296,
-            47.60574
-          ],
-          [
-            -122.32307,
-            47.60568
-          ],
-          [
-            -122.32319,
-            47.60566
-          ],
-          [
-            -122.32331,
-            47.6057
-          ],
-          [
-            -122.32343,
-            47.60578
-          ],
-          [
-            -122.3235,
-            47.60588
-          ],
-          [
-            -122.32352,
-            47.606
-          ],
-          [
-            -122.3235,
-            47.60612
-          ],
-          [
-            -122.32343,
-            47.60623
-          ],
-          [
-            -122.32329,
-            47.60632
-          ],
-          [
-            -122.32317,
-            47.60634
-          ],
-          [
-            -122.32305,
-            47.60632
-          ],
-          [
-            -122.32291,
-            47.60623
-          ],
-          [
-            -122.32284,
-            47.60612
-          ],
-          [
-            -122.32282,
-            47.60598
-          ],
-          [
-            -122.32286,
-            47.60585
           ]
         ]
       ],
