@@ -2,10 +2,11 @@
   {
     "id": 1765025,
     "startTime": 1741893346000,
-    "lastUpdatedTime": 1741893602000,
-    "etrTime": 1741893603000,
+    "lastUpdatedTime": 1741893843000,
+    "etrTime": 1741918882000,
     "title": "Outage",
     "numPeople": 71,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "193778",
     "latitude": 47.6854,
@@ -316,8 +317,8 @@
     "id": 1764986,
     "type": "PLANNED_OUTAGE",
     "startTime": 1741885380000,
-    "lastUpdatedTime": 1741892883000,
-    "etrTime": 1741917982000,
+    "lastUpdatedTime": 1741893724000,
+    "etrTime": 1741918882000,
     "title": "Planned Outage",
     "numPeople": 37,
     "status": "Dispatched",
@@ -400,10 +401,11 @@
   {
     "id": 1764990,
     "startTime": 1741886764000,
-    "lastUpdatedTime": 1741892883000,
-    "etrTime": 1741914382000,
+    "lastUpdatedTime": 1741893963000,
+    "etrTime": 1741915282000,
     "title": "Outage",
     "numPeople": 3,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "193770",
     "latitude": 47.73259,
@@ -491,8 +493,8 @@
   {
     "id": 1764984,
     "startTime": 1741885355000,
-    "lastUpdatedTime": 1741892883000,
-    "etrTime": 1741914382000,
+    "lastUpdatedTime": 1741893724000,
+    "etrTime": 1741915282000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -582,8 +584,8 @@
   {
     "id": 1764996,
     "startTime": 1741888617000,
-    "lastUpdatedTime": 1741892883000,
-    "etrTime": 1741914382000,
+    "lastUpdatedTime": 1741893724000,
+    "etrTime": 1741915282000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -673,8 +675,8 @@
   {
     "id": 1765012,
     "startTime": 1741890911000,
-    "lastUpdatedTime": 1741892883000,
-    "etrTime": 1741914382000,
+    "lastUpdatedTime": 1741893724000,
+    "etrTime": 1741915282000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -764,8 +766,8 @@
   {
     "id": 1765014,
     "startTime": 1741891891000,
-    "lastUpdatedTime": 1741892883000,
-    "etrTime": 1741914382000,
+    "lastUpdatedTime": 1741893724000,
+    "etrTime": 1741915282000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -850,6 +852,97 @@
       "hasM": false
     },
     "city": "North Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1765029,
+    "startTime": 1741893806000,
+    "lastUpdatedTime": 1741893963000,
+    "etrTime": 1741893963000,
+    "title": "Outage",
+    "numPeople": 1,
+    "cause": "Investigating",
+    "identifier": "193779",
+    "latitude": 47.46674,
+    "longitude": -122.33188,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.33156,
+            47.46644
+          ],
+          [
+            -122.33167,
+            47.46638
+          ],
+          [
+            -122.3318,
+            47.46636
+          ],
+          [
+            -122.33191,
+            47.46639
+          ],
+          [
+            -122.33203,
+            47.46648
+          ],
+          [
+            -122.3321,
+            47.46658
+          ],
+          [
+            -122.33213,
+            47.4667
+          ],
+          [
+            -122.3321,
+            47.46682
+          ],
+          [
+            -122.33203,
+            47.46692
+          ],
+          [
+            -122.3319,
+            47.46701
+          ],
+          [
+            -122.33178,
+            47.46704
+          ],
+          [
+            -122.33166,
+            47.46701
+          ],
+          [
+            -122.33152,
+            47.46692
+          ],
+          [
+            -122.33145,
+            47.46682
+          ],
+          [
+            -122.33143,
+            47.46668
+          ],
+          [
+            -122.33147,
+            47.46654
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "South Seattle",
     "state": "WA"
   }
 ]
