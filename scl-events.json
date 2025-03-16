@@ -2,9 +2,9 @@
   {
     "id": 1768402,
     "type": "PLANNED_OUTAGE",
-    "startTime": 1742142498000,
-    "lastUpdatedTime": 1742148842000,
-    "etrTime": 1742148842000,
+    "startTime": 1742141280000,
+    "lastUpdatedTime": 1742149563000,
+    "etrTime": 1742169600000,
     "title": "Planned Outage",
     "numPeople": 5,
     "status": "Dispatched",
