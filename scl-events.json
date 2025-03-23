@@ -2,10 +2,11 @@
   {
     "id": 1772186,
     "startTime": 1742712442000,
-    "lastUpdatedTime": 1742724603000,
-    "etrTime": 1742724603000,
+    "lastUpdatedTime": 1742725807000,
+    "etrTime": 1742725807000,
     "title": "Outage",
     "numPeople": 600,
+    "status": "Dispatched",
     "cause": "Vehicle",
     "identifier": "194230",
     "latitude": 47.67418,
