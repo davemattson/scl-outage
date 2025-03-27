@@ -1,102 +1,10 @@
 [
   {
-    "id": 1773573,
-    "startTime": 1743049200000,
-    "lastUpdatedTime": 1743071763000,
-    "etrTime": 1743107666000,
-    "title": "Outage",
-    "numPeople": 2,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "194415",
-    "latitude": 47.58714,
-    "longitude": -122.3221,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.32193,
-            47.5869
-          ],
-          [
-            -122.32205,
-            47.58684
-          ],
-          [
-            -122.32217,
-            47.58683
-          ],
-          [
-            -122.32229,
-            47.58686
-          ],
-          [
-            -122.3224,
-            47.58694
-          ],
-          [
-            -122.32247,
-            47.58704
-          ],
-          [
-            -122.3225,
-            47.58716
-          ],
-          [
-            -122.32247,
-            47.58728
-          ],
-          [
-            -122.3224,
-            47.58739
-          ],
-          [
-            -122.32227,
-            47.58748
-          ],
-          [
-            -122.32215,
-            47.5875
-          ],
-          [
-            -122.32203,
-            47.58748
-          ],
-          [
-            -122.32189,
-            47.58739
-          ],
-          [
-            -122.32182,
-            47.58728
-          ],
-          [
-            -122.3218,
-            47.58714
-          ],
-          [
-            -122.32184,
-            47.58701
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "South Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1773284,
     "type": "PLANNED_OUTAGE",
     "startTime": 1742942110000,
-    "lastUpdatedTime": 1743071763000,
-    "etrTime": 1743093266000,
+    "lastUpdatedTime": 1743072603000,
+    "etrTime": 1743094166000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -188,8 +96,8 @@
     "id": 1773298,
     "type": "PLANNED_OUTAGE",
     "startTime": 1742945575000,
-    "lastUpdatedTime": 1743071763000,
-    "etrTime": 1743093266000,
+    "lastUpdatedTime": 1743072603000,
+    "etrTime": 1743094166000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -467,8 +375,8 @@
     "id": 1773520,
     "type": "PLANNED_OUTAGE",
     "startTime": 1743026900000,
-    "lastUpdatedTime": 1743071763000,
-    "etrTime": 1743093266000,
+    "lastUpdatedTime": 1743072603000,
+    "etrTime": 1743094166000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -559,8 +467,8 @@
   {
     "id": 1773584,
     "startTime": 1743069005000,
-    "lastUpdatedTime": 1743071763000,
-    "etrTime": 1743093266000,
+    "lastUpdatedTime": 1743072603000,
+    "etrTime": 1743094166000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
