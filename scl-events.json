@@ -189,8 +189,8 @@
     "id": 1775804,
     "type": "PLANNED_OUTAGE",
     "startTime": 1743526305000,
-    "lastUpdatedTime": 1743545524000,
-    "etrTime": 1743545524000,
+    "lastUpdatedTime": 1743546604000,
+    "etrTime": 1743546604000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -651,102 +651,10 @@
     "state": "WA"
   },
   {
-    "id": 1775875,
-    "startTime": 1743540247000,
-    "lastUpdatedTime": 1743545044000,
-    "etrTime": 1743566551000,
-    "title": "Outage",
-    "numPeople": 1,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "194711",
-    "latitude": 47.50574,
-    "longitude": -122.34057,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.34046,
-            47.50552
-          ],
-          [
-            -122.34057,
-            47.50546
-          ],
-          [
-            -122.34069,
-            47.50544
-          ],
-          [
-            -122.34081,
-            47.50548
-          ],
-          [
-            -122.34093,
-            47.50556
-          ],
-          [
-            -122.34099,
-            47.50566
-          ],
-          [
-            -122.34102,
-            47.50578
-          ],
-          [
-            -122.34099,
-            47.5059
-          ],
-          [
-            -122.34093,
-            47.506
-          ],
-          [
-            -122.34079,
-            47.5061
-          ],
-          [
-            -122.34067,
-            47.50612
-          ],
-          [
-            -122.34055,
-            47.5061
-          ],
-          [
-            -122.34041,
-            47.506
-          ],
-          [
-            -122.34034,
-            47.5059
-          ],
-          [
-            -122.34032,
-            47.50576
-          ],
-          [
-            -122.34036,
-            47.50562
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "South Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1775894,
     "startTime": 1743545036000,
-    "lastUpdatedTime": 1743545524000,
-    "etrTime": 1743545524000,
+    "lastUpdatedTime": 1743545884000,
+    "etrTime": 1743567451000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
