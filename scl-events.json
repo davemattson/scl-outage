@@ -189,8 +189,8 @@
     "id": 1775804,
     "type": "PLANNED_OUTAGE",
     "startTime": 1743526305000,
-    "lastUpdatedTime": 1743544564000,
-    "etrTime": 1743544564000,
+    "lastUpdatedTime": 1743545524000,
+    "etrTime": 1743545524000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -653,8 +653,8 @@
   {
     "id": 1775875,
     "startTime": 1743540247000,
-    "lastUpdatedTime": 1743544084000,
-    "etrTime": 1743565651000,
+    "lastUpdatedTime": 1743545044000,
+    "etrTime": 1743566551000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -733,6 +733,97 @@
           [
             -122.34036,
             47.50562
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "South Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1775894,
+    "startTime": 1743545036000,
+    "lastUpdatedTime": 1743545524000,
+    "etrTime": 1743545524000,
+    "title": "Outage",
+    "numPeople": 1,
+    "cause": "Investigating",
+    "identifier": "194716",
+    "latitude": 47.49836,
+    "longitude": -122.35269,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.35253,
+            47.49812
+          ],
+          [
+            -122.35264,
+            47.49806
+          ],
+          [
+            -122.35276,
+            47.49804
+          ],
+          [
+            -122.35288,
+            47.49807
+          ],
+          [
+            -122.353,
+            47.49816
+          ],
+          [
+            -122.35306,
+            47.49826
+          ],
+          [
+            -122.35309,
+            47.49838
+          ],
+          [
+            -122.35306,
+            47.4985
+          ],
+          [
+            -122.353,
+            47.4986
+          ],
+          [
+            -122.35286,
+            47.49869
+          ],
+          [
+            -122.35274,
+            47.49872
+          ],
+          [
+            -122.35262,
+            47.49869
+          ],
+          [
+            -122.35248,
+            47.4986
+          ],
+          [
+            -122.35241,
+            47.4985
+          ],
+          [
+            -122.35239,
+            47.49836
+          ],
+          [
+            -122.35243,
+            47.49822
           ]
         ]
       ],
