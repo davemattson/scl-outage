@@ -318,8 +318,8 @@
   {
     "id": 1791113,
     "startTime": 1744126625000,
-    "lastUpdatedTime": 1744208405000,
-    "etrTime": 1744229988000,
+    "lastUpdatedTime": 1744209364000,
+    "etrTime": 1744230888000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -410,8 +410,8 @@
   {
     "id": 1791365,
     "startTime": 1744152802000,
-    "lastUpdatedTime": 1744208405000,
-    "etrTime": 1744229988000,
+    "lastUpdatedTime": 1744209364000,
+    "etrTime": 1744230888000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -502,8 +502,8 @@
   {
     "id": 1791484,
     "startTime": 1744201925000,
-    "lastUpdatedTime": 1744208405000,
-    "etrTime": 1744233588000,
+    "lastUpdatedTime": 1744209364000,
+    "etrTime": 1744234488000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -582,6 +582,97 @@
           [
             -122.32187,
             47.51953
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "South Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1791572,
+    "startTime": 1744209618000,
+    "lastUpdatedTime": 1744210085000,
+    "etrTime": 1744210085000,
+    "title": "Outage",
+    "numPeople": 1,
+    "cause": "Investigating",
+    "identifier": "195039",
+    "latitude": 47.50921,
+    "longitude": -122.3091,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.30883,
+            47.50893
+          ],
+          [
+            -122.30894,
+            47.50886
+          ],
+          [
+            -122.30906,
+            47.50885
+          ],
+          [
+            -122.30918,
+            47.50888
+          ],
+          [
+            -122.3093,
+            47.50896
+          ],
+          [
+            -122.30937,
+            47.50907
+          ],
+          [
+            -122.30939,
+            47.50919
+          ],
+          [
+            -122.30937,
+            47.50931
+          ],
+          [
+            -122.3093,
+            47.50941
+          ],
+          [
+            -122.30916,
+            47.5095
+          ],
+          [
+            -122.30904,
+            47.50952
+          ],
+          [
+            -122.30892,
+            47.5095
+          ],
+          [
+            -122.30878,
+            47.50941
+          ],
+          [
+            -122.30871,
+            47.50931
+          ],
+          [
+            -122.30869,
+            47.50917
+          ],
+          [
+            -122.30873,
+            47.50903
           ]
         ]
       ],
