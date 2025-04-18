@@ -342,10 +342,10 @@
   {
     "id": 1797741,
     "startTime": 1744998527000,
-    "lastUpdatedTime": 1745019243000,
+    "lastUpdatedTime": 1745019604000,
     "etrTime": 1745040750000,
     "title": "Outage",
-    "numPeople": 1,
+    "numPeople": 2,
     "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "195640",
