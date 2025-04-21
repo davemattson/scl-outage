@@ -2,8 +2,8 @@
   {
     "id": 1799126,
     "startTime": 1745257361000,
-    "lastUpdatedTime": 1745274003000,
-    "etrTime": 1745295487000,
+    "lastUpdatedTime": 1745274842000,
+    "etrTime": 1745296387000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -94,8 +94,8 @@
   {
     "id": 1799211,
     "startTime": 1745263416000,
-    "lastUpdatedTime": 1745274003000,
-    "etrTime": 1745295487000,
+    "lastUpdatedTime": 1745274842000,
+    "etrTime": 1745296387000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -186,8 +186,8 @@
   {
     "id": 1799215,
     "startTime": 1745264003000,
-    "lastUpdatedTime": 1745274003000,
-    "etrTime": 1745295487000,
+    "lastUpdatedTime": 1745274842000,
+    "etrTime": 1745296387000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -278,8 +278,8 @@
   {
     "id": 1799223,
     "startTime": 1745264807000,
-    "lastUpdatedTime": 1745274003000,
-    "etrTime": 1745295487000,
+    "lastUpdatedTime": 1745274842000,
+    "etrTime": 1745296387000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -370,8 +370,8 @@
   {
     "id": 1799230,
     "startTime": 1745266120000,
-    "lastUpdatedTime": 1745274003000,
-    "etrTime": 1745295487000,
+    "lastUpdatedTime": 1745274842000,
+    "etrTime": 1745296387000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -462,8 +462,8 @@
   {
     "id": 1799238,
     "startTime": 1745266551000,
-    "lastUpdatedTime": 1745274003000,
-    "etrTime": 1745295487000,
+    "lastUpdatedTime": 1745274842000,
+    "etrTime": 1745296387000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -554,8 +554,8 @@
   {
     "id": 1799247,
     "startTime": 1745268136000,
-    "lastUpdatedTime": 1745274003000,
-    "etrTime": 1745295487000,
+    "lastUpdatedTime": 1745274842000,
+    "etrTime": 1745296387000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -646,8 +646,8 @@
   {
     "id": 1799275,
     "startTime": 1745272768000,
-    "lastUpdatedTime": 1745274003000,
-    "etrTime": 1745295487000,
+    "lastUpdatedTime": 1745274842000,
+    "etrTime": 1745296387000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -737,8 +737,8 @@
   {
     "id": 1799286,
     "startTime": 1745274391000,
-    "lastUpdatedTime": 1745274722000,
-    "etrTime": 1745274722000,
+    "lastUpdatedTime": 1745274842000,
+    "etrTime": 1745296387000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -816,6 +816,99 @@
           [
             -122.38744,
             47.5632
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "South Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1799288,
+    "type": "PLANNED_OUTAGE",
+    "startTime": 1745274831000,
+    "lastUpdatedTime": 1745275203000,
+    "etrTime": 1749163020000,
+    "title": "Planned Outage",
+    "numPeople": 1,
+    "status": "Dispatched",
+    "cause": "Planned Outage",
+    "identifier": "195725",
+    "latitude": 47.52974,
+    "longitude": -122.27787,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.27761,
+            47.52946
+          ],
+          [
+            -122.27772,
+            47.5294
+          ],
+          [
+            -122.27784,
+            47.52938
+          ],
+          [
+            -122.27796,
+            47.52942
+          ],
+          [
+            -122.27808,
+            47.5295
+          ],
+          [
+            -122.27815,
+            47.5296
+          ],
+          [
+            -122.27817,
+            47.52972
+          ],
+          [
+            -122.27815,
+            47.52984
+          ],
+          [
+            -122.27808,
+            47.52994
+          ],
+          [
+            -122.27794,
+            47.53004
+          ],
+          [
+            -122.27782,
+            47.53006
+          ],
+          [
+            -122.2777,
+            47.53004
+          ],
+          [
+            -122.27756,
+            47.52994
+          ],
+          [
+            -122.27749,
+            47.52984
+          ],
+          [
+            -122.27747,
+            47.5297
+          ],
+          [
+            -122.27751,
+            47.52957
           ]
         ]
       ],
