@@ -737,10 +737,11 @@
   {
     "id": 1799757,
     "startTime": 1745350256000,
-    "lastUpdatedTime": 1745350563000,
+    "lastUpdatedTime": 1745351162000,
     "etrTime": 1745372156000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "195770",
     "latitude": 47.66795,
