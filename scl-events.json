@@ -466,10 +466,11 @@
   {
     "id": 1803006,
     "startTime": 1745925683000,
-    "lastUpdatedTime": 1745926683000,
+    "lastUpdatedTime": 1745927163000,
     "etrTime": 1745948256000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "196029",
     "latitude": 47.67791,
