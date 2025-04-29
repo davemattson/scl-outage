@@ -2,8 +2,8 @@
   {
     "id": 1803308,
     "startTime": 1745952475000,
-    "lastUpdatedTime": 1745961243000,
-    "etrTime": 1745961243000,
+    "lastUpdatedTime": 1745962083000,
+    "etrTime": 1745962083000,
     "title": "Outage",
     "numPeople": 91,
     "cause": "Investigating",
@@ -178,8 +178,8 @@
   {
     "id": 1803146,
     "startTime": 1745944337000,
-    "lastUpdatedTime": 1745961002000,
-    "etrTime": 1745982595000,
+    "lastUpdatedTime": 1745961962000,
+    "etrTime": 1745983495000,
     "title": "Outage",
     "numPeople": 3,
     "status": "Dispatched",
@@ -270,8 +270,8 @@
   {
     "id": 1803188,
     "startTime": 1745950063000,
-    "lastUpdatedTime": 1745961002000,
-    "etrTime": 1745982595000,
+    "lastUpdatedTime": 1745961962000,
+    "etrTime": 1745983495000,
     "title": "Outage",
     "numPeople": 2,
     "status": "Dispatched",
@@ -362,8 +362,8 @@
   {
     "id": 1803006,
     "startTime": 1745925683000,
-    "lastUpdatedTime": 1745961002000,
-    "etrTime": 1745982595000,
+    "lastUpdatedTime": 1745961962000,
+    "etrTime": 1745983495000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -454,8 +454,8 @@
   {
     "id": 1803172,
     "startTime": 1745948093000,
-    "lastUpdatedTime": 1745961002000,
-    "etrTime": 1745982595000,
+    "lastUpdatedTime": 1745961962000,
+    "etrTime": 1745983495000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -547,8 +547,8 @@
     "id": 1803198,
     "type": "PLANNED_OUTAGE",
     "startTime": 1745951300000,
-    "lastUpdatedTime": 1745961002000,
-    "etrTime": 1745982595000,
+    "lastUpdatedTime": 1745961962000,
+    "etrTime": 1745983495000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -823,12 +823,14 @@
   },
   {
     "id": 1803451,
+    "type": "PLANNED_OUTAGE",
     "startTime": 1745961152000,
-    "lastUpdatedTime": 1745961243000,
-    "etrTime": 1745961243000,
-    "title": "Outage",
+    "lastUpdatedTime": 1745961962000,
+    "etrTime": 1745983495000,
+    "title": "Planned Outage",
     "numPeople": 1,
-    "cause": "Investigating",
+    "status": "Dispatched",
+    "cause": "Planned Outage",
     "identifier": "196067",
     "latitude": 47.6006,
     "longitude": -122.29853,
@@ -903,6 +905,97 @@
           [
             -122.29822,
             47.60044
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "South Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1803455,
+    "startTime": 1745961395000,
+    "lastUpdatedTime": 1745961962000,
+    "etrTime": 1745983495000,
+    "title": "Outage",
+    "numPeople": 1,
+    "cause": "Investigating",
+    "identifier": "196068",
+    "latitude": 47.46262,
+    "longitude": -122.33022,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.33006,
+            47.46238
+          ],
+          [
+            -122.33017,
+            47.46232
+          ],
+          [
+            -122.33029,
+            47.4623
+          ],
+          [
+            -122.33041,
+            47.46233
+          ],
+          [
+            -122.33053,
+            47.46242
+          ],
+          [
+            -122.3306,
+            47.46252
+          ],
+          [
+            -122.33062,
+            47.46264
+          ],
+          [
+            -122.3306,
+            47.46276
+          ],
+          [
+            -122.33053,
+            47.46286
+          ],
+          [
+            -122.33039,
+            47.46295
+          ],
+          [
+            -122.33027,
+            47.46298
+          ],
+          [
+            -122.33015,
+            47.46295
+          ],
+          [
+            -122.33001,
+            47.46286
+          ],
+          [
+            -122.32994,
+            47.46276
+          ],
+          [
+            -122.32992,
+            47.46262
+          ],
+          [
+            -122.32996,
+            47.46248
           ]
         ]
       ],
