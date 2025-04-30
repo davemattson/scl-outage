@@ -90,8 +90,8 @@
   {
     "id": 1803146,
     "startTime": 1745944337000,
-    "lastUpdatedTime": 1745986203000,
-    "etrTime": 1746007795000,
+    "lastUpdatedTime": 1745987163000,
+    "etrTime": 1746008695000,
     "title": "Outage",
     "numPeople": 3,
     "status": "Dispatched",
@@ -182,8 +182,8 @@
   {
     "id": 1803188,
     "startTime": 1745950063000,
-    "lastUpdatedTime": 1745986203000,
-    "etrTime": 1746007795000,
+    "lastUpdatedTime": 1745987163000,
+    "etrTime": 1746008695000,
     "title": "Outage",
     "numPeople": 2,
     "status": "Dispatched",
@@ -460,8 +460,8 @@
   {
     "id": 1803172,
     "startTime": 1745948093000,
-    "lastUpdatedTime": 1745986203000,
-    "etrTime": 1746007795000,
+    "lastUpdatedTime": 1745987163000,
+    "etrTime": 1746008695000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -553,8 +553,8 @@
     "id": 1803198,
     "type": "PLANNED_OUTAGE",
     "startTime": 1745951300000,
-    "lastUpdatedTime": 1745986203000,
-    "etrTime": 1746007795000,
+    "lastUpdatedTime": 1745987163000,
+    "etrTime": 1746008695000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -831,8 +831,8 @@
     "id": 1803451,
     "type": "PLANNED_OUTAGE",
     "startTime": 1745961152000,
-    "lastUpdatedTime": 1745986203000,
-    "etrTime": 1746007795000,
+    "lastUpdatedTime": 1745987163000,
+    "etrTime": 1746008695000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1017,8 +1017,8 @@
     "id": 1808096,
     "type": "PLANNED_OUTAGE",
     "startTime": 1745976342000,
-    "lastUpdatedTime": 1745986203000,
-    "etrTime": 1746007795000,
+    "lastUpdatedTime": 1745987163000,
+    "etrTime": 1746008695000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1110,8 +1110,8 @@
     "id": 1809344,
     "type": "PLANNED_OUTAGE",
     "startTime": 1745984247000,
-    "lastUpdatedTime": 1745986203000,
-    "etrTime": 1746007795000,
+    "lastUpdatedTime": 1745987163000,
+    "etrTime": 1746008695000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1190,6 +1190,99 @@
           [
             -122.32353,
             47.48229
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "South Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1809609,
+    "type": "PLANNED_OUTAGE",
+    "startTime": 1745987325000,
+    "lastUpdatedTime": 1745987882000,
+    "etrTime": 1745987882000,
+    "title": "Planned Outage",
+    "numPeople": 1,
+    "status": "Dispatched",
+    "cause": "Planned Outage",
+    "identifier": "196085",
+    "latitude": 47.48255,
+    "longitude": -122.33627,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.33601,
+            47.48226
+          ],
+          [
+            -122.33612,
+            47.4822
+          ],
+          [
+            -122.33624,
+            47.48219
+          ],
+          [
+            -122.33636,
+            47.48222
+          ],
+          [
+            -122.33648,
+            47.4823
+          ],
+          [
+            -122.33654,
+            47.4824
+          ],
+          [
+            -122.33657,
+            47.48253
+          ],
+          [
+            -122.33654,
+            47.48265
+          ],
+          [
+            -122.33648,
+            47.48275
+          ],
+          [
+            -122.33634,
+            47.48284
+          ],
+          [
+            -122.33622,
+            47.48286
+          ],
+          [
+            -122.3361,
+            47.48284
+          ],
+          [
+            -122.33596,
+            47.48275
+          ],
+          [
+            -122.33589,
+            47.48265
+          ],
+          [
+            -122.33587,
+            47.4825
+          ],
+          [
+            -122.33591,
+            47.48237
           ]
         ]
       ],
