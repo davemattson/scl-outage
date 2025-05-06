@@ -374,10 +374,11 @@
   {
     "id": 1824869,
     "startTime": 1746512374000,
-    "lastUpdatedTime": 1746513243000,
-    "etrTime": 1746534772000,
+    "lastUpdatedTime": 1746514083000,
+    "etrTime": 1746535672000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "196323",
     "latitude": 47.64226,
