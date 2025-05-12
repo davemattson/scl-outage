@@ -95,8 +95,8 @@
   {
     "id": 1828370,
     "startTime": 1747029234000,
-    "lastUpdatedTime": 1747075803000,
-    "etrTime": 1747097315000,
+    "lastUpdatedTime": 1747076643000,
+    "etrTime": 1747098215000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -187,8 +187,8 @@
   {
     "id": 1828769,
     "startTime": 1747075800000,
-    "lastUpdatedTime": 1747076043000,
-    "etrTime": 1747076043000,
+    "lastUpdatedTime": 1747076643000,
+    "etrTime": 1747098215000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -273,6 +273,97 @@
       "hasM": false
     },
     "city": "North Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1828776,
+    "startTime": 1747076406000,
+    "lastUpdatedTime": 1747076643000,
+    "etrTime": 1747098215000,
+    "title": "Outage",
+    "numPeople": 1,
+    "cause": "Investigating",
+    "identifier": "196513",
+    "latitude": 47.51957,
+    "longitude": -122.3608,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.36058,
+            47.51931
+          ],
+          [
+            -122.3607,
+            47.51925
+          ],
+          [
+            -122.36082,
+            47.51923
+          ],
+          [
+            -122.36094,
+            47.51926
+          ],
+          [
+            -122.36105,
+            47.51935
+          ],
+          [
+            -122.36112,
+            47.51945
+          ],
+          [
+            -122.36115,
+            47.51957
+          ],
+          [
+            -122.36112,
+            47.51969
+          ],
+          [
+            -122.36105,
+            47.51979
+          ],
+          [
+            -122.36092,
+            47.51988
+          ],
+          [
+            -122.3608,
+            47.51991
+          ],
+          [
+            -122.36068,
+            47.51988
+          ],
+          [
+            -122.36054,
+            47.51979
+          ],
+          [
+            -122.36047,
+            47.51969
+          ],
+          [
+            -122.36045,
+            47.51955
+          ],
+          [
+            -122.36049,
+            47.51941
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "South Seattle",
     "state": "WA"
   }
 ]
