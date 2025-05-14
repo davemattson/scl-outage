@@ -2,8 +2,8 @@
   {
     "id": 1830333,
     "startTime": 1747247910000,
-    "lastUpdatedTime": 1747251962000,
-    "etrTime": 1747251963000,
+    "lastUpdatedTime": 1747252203000,
+    "etrTime": 1747262957000,
     "title": "Outage",
     "numPeople": 26,
     "status": "Dispatched",
@@ -94,8 +94,8 @@
   {
     "id": 1830269,
     "startTime": 1747240408000,
-    "lastUpdatedTime": 1747251363000,
-    "etrTime": 1747272857000,
+    "lastUpdatedTime": 1747252203000,
+    "etrTime": 1747273757000,
     "title": "Outage",
     "numPeople": 3,
     "status": "Dispatched",
@@ -184,10 +184,102 @@
     "state": "WA"
   },
   {
+    "id": 1830329,
+    "startTime": 1747250412000,
+    "lastUpdatedTime": 1747252323000,
+    "etrTime": 1747273757000,
+    "title": "Outage",
+    "numPeople": 2,
+    "status": "Dispatched",
+    "cause": "Investigating",
+    "identifier": "196603",
+    "latitude": 47.67568,
+    "longitude": -122.3768,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.37669,
+            47.67546
+          ],
+          [
+            -122.3768,
+            47.6754
+          ],
+          [
+            -122.37692,
+            47.67538
+          ],
+          [
+            -122.37704,
+            47.67542
+          ],
+          [
+            -122.37716,
+            47.6755
+          ],
+          [
+            -122.37723,
+            47.6756
+          ],
+          [
+            -122.37725,
+            47.67572
+          ],
+          [
+            -122.37723,
+            47.67584
+          ],
+          [
+            -122.37716,
+            47.67594
+          ],
+          [
+            -122.37702,
+            47.67604
+          ],
+          [
+            -122.3769,
+            47.67606
+          ],
+          [
+            -122.37678,
+            47.67604
+          ],
+          [
+            -122.37664,
+            47.67594
+          ],
+          [
+            -122.37658,
+            47.67584
+          ],
+          [
+            -122.37655,
+            47.6757
+          ],
+          [
+            -122.37659,
+            47.67556
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "North Seattle",
+    "state": "WA"
+  },
+  {
     "id": 1830206,
     "startTime": 1747232277000,
-    "lastUpdatedTime": 1747251363000,
-    "etrTime": 1747272857000,
+    "lastUpdatedTime": 1747252203000,
+    "etrTime": 1747273757000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -278,8 +370,8 @@
   {
     "id": 1830257,
     "startTime": 1747238880000,
-    "lastUpdatedTime": 1747251363000,
-    "etrTime": 1747272857000,
+    "lastUpdatedTime": 1747252203000,
+    "etrTime": 1747273757000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -370,8 +462,8 @@
   {
     "id": 1830258,
     "startTime": 1747238939000,
-    "lastUpdatedTime": 1747251363000,
-    "etrTime": 1747272857000,
+    "lastUpdatedTime": 1747252203000,
+    "etrTime": 1747273757000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -462,8 +554,8 @@
   {
     "id": 1830298,
     "startTime": 1747246617000,
-    "lastUpdatedTime": 1747251363000,
-    "etrTime": 1747272857000,
+    "lastUpdatedTime": 1747252203000,
+    "etrTime": 1747273757000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -554,8 +646,8 @@
   {
     "id": 1830318,
     "startTime": 1747248954000,
-    "lastUpdatedTime": 1747251363000,
-    "etrTime": 1747272857000,
+    "lastUpdatedTime": 1747252203000,
+    "etrTime": 1747273757000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -646,8 +738,8 @@
   {
     "id": 1830319,
     "startTime": 1747249150000,
-    "lastUpdatedTime": 1747251363000,
-    "etrTime": 1747272857000,
+    "lastUpdatedTime": 1747252203000,
+    "etrTime": 1747273757000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -738,8 +830,8 @@
   {
     "id": 1830323,
     "startTime": 1747249548000,
-    "lastUpdatedTime": 1747251363000,
-    "etrTime": 1747272857000,
+    "lastUpdatedTime": 1747252203000,
+    "etrTime": 1747273757000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -828,102 +920,10 @@
     "state": "WA"
   },
   {
-    "id": 1830329,
-    "startTime": 1747250412000,
-    "lastUpdatedTime": 1747251363000,
-    "etrTime": 1747272857000,
-    "title": "Outage",
-    "numPeople": 1,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "196603",
-    "latitude": 47.67568,
-    "longitude": -122.3768,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.37669,
-            47.67546
-          ],
-          [
-            -122.3768,
-            47.6754
-          ],
-          [
-            -122.37692,
-            47.67538
-          ],
-          [
-            -122.37704,
-            47.67542
-          ],
-          [
-            -122.37716,
-            47.6755
-          ],
-          [
-            -122.37723,
-            47.6756
-          ],
-          [
-            -122.37725,
-            47.67572
-          ],
-          [
-            -122.37723,
-            47.67584
-          ],
-          [
-            -122.37716,
-            47.67594
-          ],
-          [
-            -122.37702,
-            47.67604
-          ],
-          [
-            -122.3769,
-            47.67606
-          ],
-          [
-            -122.37678,
-            47.67604
-          ],
-          [
-            -122.37664,
-            47.67594
-          ],
-          [
-            -122.37658,
-            47.67584
-          ],
-          [
-            -122.37655,
-            47.6757
-          ],
-          [
-            -122.37659,
-            47.67556
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "North Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1830334,
     "startTime": 1747251342000,
-    "lastUpdatedTime": 1747251962000,
-    "etrTime": 1747251963000,
+    "lastUpdatedTime": 1747252203000,
+    "etrTime": 1747273757000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -1013,8 +1013,8 @@
   {
     "id": 1830335,
     "startTime": 1747251399000,
-    "lastUpdatedTime": 1747251962000,
-    "etrTime": 1747251963000,
+    "lastUpdatedTime": 1747252203000,
+    "etrTime": 1747273757000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -1104,8 +1104,8 @@
   {
     "id": 1830336,
     "startTime": 1747251580000,
-    "lastUpdatedTime": 1747251962000,
-    "etrTime": 1747251963000,
+    "lastUpdatedTime": 1747252203000,
+    "etrTime": 1747273757000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
