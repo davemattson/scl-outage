@@ -2,8 +2,8 @@
   {
     "id": 1836348,
     "startTime": 1747551895000,
-    "lastUpdatedTime": 1747574522000,
-    "etrTime": 1747610473000,
+    "lastUpdatedTime": 1747575482000,
+    "etrTime": 1747611373000,
     "title": "Outage",
     "numPeople": 96,
     "cause": "Equipment Failure",
@@ -449,8 +449,8 @@
   {
     "id": 1836302,
     "startTime": 1747553447000,
-    "lastUpdatedTime": 1747574522000,
-    "etrTime": 1747610473000,
+    "lastUpdatedTime": 1747575482000,
+    "etrTime": 1747611373000,
     "title": "Outage",
     "numPeople": 10,
     "status": "Dispatched",
