@@ -2,8 +2,8 @@
   {
     "id": 1836415,
     "startTime": 1747551895000,
-    "lastUpdatedTime": 1747587122000,
-    "etrTime": 1747623073000,
+    "lastUpdatedTime": 1747588082000,
+    "etrTime": 1747623973000,
     "title": "Outage",
     "numPeople": 32,
     "status": "Dispatched",
@@ -187,8 +187,8 @@
     "id": 1836443,
     "type": "PLANNED_OUTAGE",
     "startTime": 1747583916000,
-    "lastUpdatedTime": 1747587602000,
-    "etrTime": 1747587603000,
+    "lastUpdatedTime": 1747588562000,
+    "etrTime": 1747588563000,
     "title": "Planned Outage",
     "numPeople": 11,
     "status": "Dispatched",
@@ -632,98 +632,6 @@
           [
             -122.33371,
             47.6992
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "North Seattle",
-    "state": "WA"
-  },
-  {
-    "id": 1836453,
-    "startTime": 1747585118000,
-    "lastUpdatedTime": 1747587122000,
-    "etrTime": 1747608673000,
-    "title": "Outage",
-    "numPeople": 1,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "196741",
-    "latitude": 47.68333,
-    "longitude": -122.29453,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.29432,
-            47.68306
-          ],
-          [
-            -122.29443,
-            47.683
-          ],
-          [
-            -122.29455,
-            47.68299
-          ],
-          [
-            -122.29467,
-            47.68302
-          ],
-          [
-            -122.29479,
-            47.6831
-          ],
-          [
-            -122.29486,
-            47.68321
-          ],
-          [
-            -122.29488,
-            47.68333
-          ],
-          [
-            -122.29486,
-            47.68345
-          ],
-          [
-            -122.29479,
-            47.68355
-          ],
-          [
-            -122.29465,
-            47.68364
-          ],
-          [
-            -122.29453,
-            47.68366
-          ],
-          [
-            -122.29441,
-            47.68364
-          ],
-          [
-            -122.29427,
-            47.68355
-          ],
-          [
-            -122.2942,
-            47.68345
-          ],
-          [
-            -122.29418,
-            47.68331
-          ],
-          [
-            -122.29422,
-            47.68317
           ]
         ]
       ],
