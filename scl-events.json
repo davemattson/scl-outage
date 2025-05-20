@@ -282,8 +282,8 @@
     "id": 1838693,
     "type": "PLANNED_OUTAGE",
     "startTime": 1747755334000,
-    "lastUpdatedTime": 1747768202000,
-    "etrTime": 1747793287000,
+    "lastUpdatedTime": 1747769043000,
+    "etrTime": 1747794187000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -839,8 +839,8 @@
   {
     "id": 1838759,
     "startTime": 1747761711000,
-    "lastUpdatedTime": 1747768202000,
-    "etrTime": 1747789687000,
+    "lastUpdatedTime": 1747769043000,
+    "etrTime": 1747790587000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -932,8 +932,8 @@
     "id": 1838786,
     "type": "PLANNED_OUTAGE",
     "startTime": 1747765592000,
-    "lastUpdatedTime": 1747768202000,
-    "etrTime": 1747789687000,
+    "lastUpdatedTime": 1747769043000,
+    "etrTime": 1747790587000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1012,98 +1012,6 @@
           [
             -122.30782,
             47.68084
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "North Seattle",
-    "state": "WA"
-  },
-  {
-    "id": 1838793,
-    "startTime": 1747766112000,
-    "lastUpdatedTime": 1747768202000,
-    "etrTime": 1747789687000,
-    "title": "Outage",
-    "numPeople": 1,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "196862",
-    "latitude": 47.62291,
-    "longitude": -122.33259,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.33243,
-            47.62266
-          ],
-          [
-            -122.33254,
-            47.6226
-          ],
-          [
-            -122.33266,
-            47.62259
-          ],
-          [
-            -122.33278,
-            47.62262
-          ],
-          [
-            -122.3329,
-            47.6227
-          ],
-          [
-            -122.33297,
-            47.6228
-          ],
-          [
-            -122.33299,
-            47.62292
-          ],
-          [
-            -122.33297,
-            47.62305
-          ],
-          [
-            -122.3329,
-            47.62315
-          ],
-          [
-            -122.33276,
-            47.62324
-          ],
-          [
-            -122.33264,
-            47.62326
-          ],
-          [
-            -122.33252,
-            47.62324
-          ],
-          [
-            -122.33238,
-            47.62315
-          ],
-          [
-            -122.33232,
-            47.62305
-          ],
-          [
-            -122.33229,
-            47.6229
-          ],
-          [
-            -122.33233,
-            47.62277
           ]
         ]
       ],
