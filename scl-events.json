@@ -97,6 +97,97 @@
     "state": "WA"
   },
   {
+    "id": 1840718,
+    "startTime": 1747929055000,
+    "lastUpdatedTime": 1747929363000,
+    "etrTime": 1747950669000,
+    "title": "Outage",
+    "numPeople": 2,
+    "cause": "Investigating",
+    "identifier": "196945",
+    "latitude": 47.70287,
+    "longitude": -122.31183,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.31167,
+            47.70262
+          ],
+          [
+            -122.31178,
+            47.70256
+          ],
+          [
+            -122.3119,
+            47.70255
+          ],
+          [
+            -122.31202,
+            47.70258
+          ],
+          [
+            -122.31214,
+            47.70266
+          ],
+          [
+            -122.3122,
+            47.70276
+          ],
+          [
+            -122.31223,
+            47.70288
+          ],
+          [
+            -122.3122,
+            47.703
+          ],
+          [
+            -122.31214,
+            47.70311
+          ],
+          [
+            -122.312,
+            47.7032
+          ],
+          [
+            -122.31188,
+            47.70322
+          ],
+          [
+            -122.31176,
+            47.7032
+          ],
+          [
+            -122.31162,
+            47.70311
+          ],
+          [
+            -122.31155,
+            47.703
+          ],
+          [
+            -122.31153,
+            47.70286
+          ],
+          [
+            -122.31157,
+            47.70273
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "North Seattle",
+    "state": "WA"
+  },
+  {
     "id": 1840429,
     "type": "PLANNED_OUTAGE",
     "startTime": 1747900296000,
@@ -192,8 +283,8 @@
   {
     "id": 1840693,
     "startTime": 1747927235000,
-    "lastUpdatedTime": 1747928283000,
-    "etrTime": 1747949769000,
+    "lastUpdatedTime": 1747929122000,
+    "etrTime": 1747950669000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -283,8 +374,8 @@
   {
     "id": 1840707,
     "startTime": 1747927809000,
-    "lastUpdatedTime": 1747928283000,
-    "etrTime": 1747949769000,
+    "lastUpdatedTime": 1747929122000,
+    "etrTime": 1747950669000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
