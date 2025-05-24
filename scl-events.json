@@ -694,10 +694,10 @@
   {
     "id": 1841383,
     "startTime": 1748055369000,
-    "lastUpdatedTime": 1748068803000,
+    "lastUpdatedTime": 1748069403000,
     "etrTime": 1748090306000,
     "title": "Outage",
-    "numPeople": 2,
+    "numPeople": 3,
     "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "197024",
