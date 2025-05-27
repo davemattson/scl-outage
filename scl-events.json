@@ -923,10 +923,11 @@
   {
     "id": 1843488,
     "startTime": 1748389340000,
-    "lastUpdatedTime": 1748389803000,
+    "lastUpdatedTime": 1748390042000,
     "etrTime": 1748411290000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "197120",
     "latitude": 47.50136,
