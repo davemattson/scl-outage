@@ -1,13 +1,102 @@
 [
   {
+    "id": 1843776,
+    "type": "PLANNED_OUTAGE",
+    "startTime": 1748448016000,
+    "lastUpdatedTime": 1748448123000,
+    "etrTime": 1748462400000,
+    "title": "Planned Outage",
+    "numPeople": 14,
+    "status": "Dispatched",
+    "cause": "Planned Outage",
+    "identifier": "197131",
+    "latitude": 47.51494,
+    "longitude": -122.35925,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.35971,
+            47.51453
+          ],
+          [
+            -122.35984,
+            47.51473
+          ],
+          [
+            -122.35986,
+            47.51488
+          ],
+          [
+            -122.35975,
+            47.51531
+          ],
+          [
+            -122.35964,
+            47.51546
+          ],
+          [
+            -122.3595,
+            47.51551
+          ],
+          [
+            -122.35938,
+            47.5155
+          ],
+          [
+            -122.35881,
+            47.51531
+          ],
+          [
+            -122.35867,
+            47.5152
+          ],
+          [
+            -122.35862,
+            47.51506
+          ],
+          [
+            -122.35862,
+            47.51481
+          ],
+          [
+            -122.35867,
+            47.51467
+          ],
+          [
+            -122.35875,
+            47.51459
+          ],
+          [
+            -122.35943,
+            47.51439
+          ],
+          [
+            -122.35959,
+            47.51442
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "South Seattle",
+    "state": "WA"
+  },
+  {
     "id": 1843731,
     "startTime": 1748443165000,
-    "lastUpdatedTime": 1748447403000,
-    "etrTime": 1748472490000,
+    "lastUpdatedTime": 1748448003000,
+    "etrTime": 1748451600000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
-    "cause": "Investigating",
+    "cause": "Bird/Animal Contact",
     "identifier": "197127",
     "latitude": 47.68893,
     "longitude": -122.33559,
