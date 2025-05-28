@@ -2,8 +2,8 @@
   {
     "id": 1843428,
     "startTime": 1748380055000,
-    "lastUpdatedTime": 1748389803000,
-    "etrTime": 1748411290000,
+    "lastUpdatedTime": 1748394243000,
+    "etrTime": 1748415790000,
     "title": "Outage",
     "numPeople": 3,
     "status": "Dispatched",
@@ -94,8 +94,8 @@
   {
     "id": 1843402,
     "startTime": 1748374660000,
-    "lastUpdatedTime": 1748389803000,
-    "etrTime": 1748411290000,
+    "lastUpdatedTime": 1748394243000,
+    "etrTime": 1748415790000,
     "title": "Outage",
     "numPeople": 2,
     "status": "Dispatched",
@@ -186,8 +186,8 @@
   {
     "id": 1843124,
     "startTime": 1748361617000,
-    "lastUpdatedTime": 1748389803000,
-    "etrTime": 1748411290000,
+    "lastUpdatedTime": 1748394243000,
+    "etrTime": 1748415790000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -278,8 +278,8 @@
   {
     "id": 1843157,
     "startTime": 1748367287000,
-    "lastUpdatedTime": 1748389803000,
-    "etrTime": 1748411290000,
+    "lastUpdatedTime": 1748394243000,
+    "etrTime": 1748415790000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -370,8 +370,8 @@
   {
     "id": 1843192,
     "startTime": 1748370040000,
-    "lastUpdatedTime": 1748389803000,
-    "etrTime": 1748411290000,
+    "lastUpdatedTime": 1748394243000,
+    "etrTime": 1748415790000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -462,8 +462,8 @@
   {
     "id": 1843197,
     "startTime": 1748371079000,
-    "lastUpdatedTime": 1748389803000,
-    "etrTime": 1748411290000,
+    "lastUpdatedTime": 1748394243000,
+    "etrTime": 1748415790000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -554,8 +554,8 @@
   {
     "id": 1843358,
     "startTime": 1748373684000,
-    "lastUpdatedTime": 1748389803000,
-    "etrTime": 1748411290000,
+    "lastUpdatedTime": 1748394243000,
+    "etrTime": 1748415790000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -646,8 +646,8 @@
   {
     "id": 1843399,
     "startTime": 1748374416000,
-    "lastUpdatedTime": 1748389803000,
-    "etrTime": 1748411290000,
+    "lastUpdatedTime": 1748394243000,
+    "etrTime": 1748415790000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -738,8 +738,8 @@
   {
     "id": 1843430,
     "startTime": 1748380784000,
-    "lastUpdatedTime": 1748389803000,
-    "etrTime": 1748411290000,
+    "lastUpdatedTime": 1748394243000,
+    "etrTime": 1748415790000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -911,98 +911,6 @@
           [
             -122.33376,
             47.49981
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "South Seattle",
-    "state": "WA"
-  },
-  {
-    "id": 1843488,
-    "startTime": 1748389340000,
-    "lastUpdatedTime": 1748390042000,
-    "etrTime": 1748411290000,
-    "title": "Outage",
-    "numPeople": 1,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "197120",
-    "latitude": 47.50136,
-    "longitude": -122.30078,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.30051,
-            47.50108
-          ],
-          [
-            -122.30062,
-            47.50102
-          ],
-          [
-            -122.30075,
-            47.501
-          ],
-          [
-            -122.30086,
-            47.50104
-          ],
-          [
-            -122.30098,
-            47.50112
-          ],
-          [
-            -122.30105,
-            47.50122
-          ],
-          [
-            -122.30108,
-            47.50134
-          ],
-          [
-            -122.30105,
-            47.50146
-          ],
-          [
-            -122.30098,
-            47.50157
-          ],
-          [
-            -122.30085,
-            47.50166
-          ],
-          [
-            -122.30072,
-            47.50168
-          ],
-          [
-            -122.3006,
-            47.50166
-          ],
-          [
-            -122.30047,
-            47.50157
-          ],
-          [
-            -122.3004,
-            47.50146
-          ],
-          [
-            -122.30038,
-            47.50132
-          ],
-          [
-            -122.30042,
-            47.50119
           ]
         ]
       ],
