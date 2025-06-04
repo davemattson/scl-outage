@@ -1,98 +1,10 @@
 [
   {
-    "id": 1849710,
-    "startTime": 1748999088000,
-    "lastUpdatedTime": 1749024242000,
-    "etrTime": 1749045763000,
-    "title": "Outage",
-    "numPeople": 6,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "197402",
-    "latitude": 47.55208,
-    "longitude": -122.35591,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.35534,
-            47.5523
-          ],
-          [
-            -122.35536,
-            47.55184
-          ],
-          [
-            -122.35543,
-            47.55171
-          ],
-          [
-            -122.35554,
-            47.55163
-          ],
-          [
-            -122.35566,
-            47.55161
-          ],
-          [
-            -122.35631,
-            47.55165
-          ],
-          [
-            -122.35644,
-            47.55171
-          ],
-          [
-            -122.35654,
-            47.55183
-          ],
-          [
-            -122.35656,
-            47.55221
-          ],
-          [
-            -122.35649,
-            47.55234
-          ],
-          [
-            -122.35637,
-            47.55242
-          ],
-          [
-            -122.35574,
-            47.55261
-          ],
-          [
-            -122.35562,
-            47.55262
-          ],
-          [
-            -122.35542,
-            47.55251
-          ],
-          [
-            -122.35536,
-            47.55241
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "South Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1849653,
     "type": "PLANNED_OUTAGE",
     "startTime": 1748985229000,
-    "lastUpdatedTime": 1749024242000,
-    "etrTime": 1749045763000,
+    "lastUpdatedTime": 1749026042000,
+    "etrTime": 1749047563000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
