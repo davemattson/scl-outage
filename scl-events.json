@@ -1,9 +1,9 @@
 [
   {
     "id": 1850099,
-    "startTime": 1749095295000,
-    "lastUpdatedTime": 1749095523000,
-    "etrTime": 1749116940000,
+    "startTime": 1749095280000,
+    "lastUpdatedTime": 1749098043000,
+    "etrTime": 1749134040000,
     "title": "Outage",
     "numPeople": 35,
     "status": "Dispatched",
@@ -188,8 +188,8 @@
     "id": 1849934,
     "type": "PLANNED_OUTAGE",
     "startTime": 1749055457000,
-    "lastUpdatedTime": 1749095402000,
-    "etrTime": 1749116940000,
+    "lastUpdatedTime": 1749098043000,
+    "etrTime": 1749119640000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
