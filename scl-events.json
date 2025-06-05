@@ -1,5 +1,97 @@
 [
   {
+    "id": 1850099,
+    "startTime": 1749095295000,
+    "lastUpdatedTime": 1749095523000,
+    "etrTime": 1749116940000,
+    "title": "Outage",
+    "numPeople": 35,
+    "status": "Dispatched",
+    "cause": "Investigating",
+    "identifier": "197442",
+    "latitude": 47.63508,
+    "longitude": -122.32482,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.32482,
+            47.6349
+          ],
+          [
+            -122.32493,
+            47.63484
+          ],
+          [
+            -122.32505,
+            47.63482
+          ],
+          [
+            -122.32517,
+            47.63485
+          ],
+          [
+            -122.32529,
+            47.63494
+          ],
+          [
+            -122.32535,
+            47.63504
+          ],
+          [
+            -122.32538,
+            47.63516
+          ],
+          [
+            -122.32535,
+            47.63528
+          ],
+          [
+            -122.32529,
+            47.63538
+          ],
+          [
+            -122.32515,
+            47.63547
+          ],
+          [
+            -122.32503,
+            47.6355
+          ],
+          [
+            -122.32491,
+            47.63547
+          ],
+          [
+            -122.32477,
+            47.63538
+          ],
+          [
+            -122.3247,
+            47.63528
+          ],
+          [
+            -122.32468,
+            47.63514
+          ],
+          [
+            -122.32472,
+            47.635
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "North Seattle",
+    "state": "WA"
+  },
+  {
     "id": 1850045,
     "type": "PLANNED_OUTAGE",
     "startTime": 1749075235000,
@@ -96,8 +188,8 @@
     "id": 1849934,
     "type": "PLANNED_OUTAGE",
     "startTime": 1749055457000,
-    "lastUpdatedTime": 1749094443000,
-    "etrTime": 1749116040000,
+    "lastUpdatedTime": 1749095402000,
+    "etrTime": 1749116940000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
