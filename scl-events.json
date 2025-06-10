@@ -1,12 +1,13 @@
 [
   {
     "id": 1852733,
-    "startTime": 1749544172000,
-    "lastUpdatedTime": 1749545522000,
-    "etrTime": 1749581475000,
+    "startTime": 1749544140000,
+    "lastUpdatedTime": 1749547082000,
+    "etrTime": 1749582375000,
     "title": "Outage",
     "numPeople": 56,
-    "cause": "Investigating",
+    "status": "Dispatched",
+    "cause": "Equipment Failure",
     "identifier": "197598",
     "latitude": 47.63185,
     "longitude": -122.3667,
