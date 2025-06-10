@@ -2,8 +2,8 @@
   {
     "id": 1852733,
     "startTime": 1749544140000,
-    "lastUpdatedTime": 1749576004000,
-    "etrTime": 1749601115000,
+    "lastUpdatedTime": 1749576843000,
+    "etrTime": 1749602015000,
     "title": "Outage",
     "numPeople": 56,
     "status": "Dispatched",
@@ -210,8 +210,8 @@
   {
     "id": 1852957,
     "startTime": 1749549720000,
-    "lastUpdatedTime": 1749576004000,
-    "etrTime": 1749601115000,
+    "lastUpdatedTime": 1749576843000,
+    "etrTime": 1749602015000,
     "title": "Outage",
     "numPeople": 23,
     "status": "Dispatched",
@@ -366,8 +366,8 @@
   {
     "id": 1852950,
     "startTime": 1749572453000,
-    "lastUpdatedTime": 1749576004000,
-    "etrTime": 1749597515000,
+    "lastUpdatedTime": 1749576843000,
+    "etrTime": 1749598415000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -458,12 +458,12 @@
   {
     "id": 1852960,
     "startTime": 1749574676000,
-    "lastUpdatedTime": 1749576364000,
-    "etrTime": 1749597515000,
+    "lastUpdatedTime": 1749577083000,
+    "etrTime": 1749598126000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
-    "cause": "Investigating",
+    "cause": "Bird/Animal Contact",
     "identifier": "197614",
     "latitude": 47.60374,
     "longitude": -122.32114,
@@ -538,6 +538,97 @@
           [
             -122.32082,
             47.60358
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "South Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1852980,
+    "startTime": 1749577257000,
+    "lastUpdatedTime": 1749577443000,
+    "etrTime": 1749577443000,
+    "title": "Outage",
+    "numPeople": 1,
+    "cause": "Investigating",
+    "identifier": "197615",
+    "latitude": 47.52667,
+    "longitude": -122.28483,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.28466,
+            47.52643
+          ],
+          [
+            -122.28477,
+            47.52636
+          ],
+          [
+            -122.2849,
+            47.52635
+          ],
+          [
+            -122.28501,
+            47.52638
+          ],
+          [
+            -122.28513,
+            47.52646
+          ],
+          [
+            -122.2852,
+            47.52657
+          ],
+          [
+            -122.28523,
+            47.52669
+          ],
+          [
+            -122.2852,
+            47.52681
+          ],
+          [
+            -122.28513,
+            47.52691
+          ],
+          [
+            -122.285,
+            47.527
+          ],
+          [
+            -122.28488,
+            47.52703
+          ],
+          [
+            -122.28476,
+            47.527
+          ],
+          [
+            -122.28462,
+            47.52691
+          ],
+          [
+            -122.28455,
+            47.52681
+          ],
+          [
+            -122.28453,
+            47.52667
+          ],
+          [
+            -122.28457,
+            47.52653
           ]
         ]
       ],
