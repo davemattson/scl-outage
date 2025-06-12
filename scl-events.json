@@ -1,13 +1,13 @@
 [
   {
     "id": 1854144,
-    "startTime": 1749718129000,
-    "lastUpdatedTime": 1749729125000,
-    "etrTime": 1749765037000,
+    "startTime": 1749718080000,
+    "lastUpdatedTime": 1749731765000,
+    "etrTime": 1749767737000,
     "title": "Outage",
     "numPeople": 270,
     "status": "Dispatched",
-    "cause": "Investigating",
+    "cause": "Equipment Failure",
     "identifier": "197733",
     "latitude": 47.70662,
     "longitude": -122.33511,
@@ -408,8 +408,8 @@
   {
     "id": 1853935,
     "startTime": 1749681186000,
-    "lastUpdatedTime": 1749729125000,
-    "etrTime": 1749750637000,
+    "lastUpdatedTime": 1749731765000,
+    "etrTime": 1749753337000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
