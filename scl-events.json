@@ -89,90 +89,6 @@
     "state": "WA"
   },
   {
-    "id": 1854940,
-    "startTime": 1749838819000,
-    "lastUpdatedTime": 1749839403000,
-    "etrTime": 1749849912000,
-    "title": "Outage",
-    "numPeople": 4,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "198009",
-    "latitude": 47.51093,
-    "longitude": -122.38051,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.38085,
-            47.51128
-          ],
-          [
-            -122.38019,
-            47.51136
-          ],
-          [
-            -122.38002,
-            47.5113
-          ],
-          [
-            -122.37993,
-            47.51122
-          ],
-          [
-            -122.37988,
-            47.5111
-          ],
-          [
-            -122.37985,
-            47.51082
-          ],
-          [
-            -122.3799,
-            47.51067
-          ],
-          [
-            -122.38001,
-            47.51057
-          ],
-          [
-            -122.38012,
-            47.51053
-          ],
-          [
-            -122.3808,
-            47.51049
-          ],
-          [
-            -122.38098,
-            47.51055
-          ],
-          [
-            -122.3811,
-            47.51071
-          ],
-          [
-            -122.38112,
-            47.51103
-          ],
-          [
-            -122.38102,
-            47.51121
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "South Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1854437,
     "type": "PLANNED_OUTAGE",
     "startTime": 1749769983000,
@@ -361,8 +277,8 @@
   {
     "id": 1854950,
     "startTime": 1749839931000,
-    "lastUpdatedTime": 1749841206000,
-    "etrTime": 1749862705000,
+    "lastUpdatedTime": 1749842043000,
+    "etrTime": 1749863605000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
