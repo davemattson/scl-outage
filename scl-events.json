@@ -284,8 +284,8 @@
   {
     "id": 1854437,
     "startTime": 1749769983000,
-    "lastUpdatedTime": 1749787324000,
-    "etrTime": 1749808834000,
+    "lastUpdatedTime": 1749789123000,
+    "etrTime": 1749810634000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -376,8 +376,8 @@
   {
     "id": 1854464,
     "startTime": 1749778336000,
-    "lastUpdatedTime": 1749787324000,
-    "etrTime": 1749808834000,
+    "lastUpdatedTime": 1749789123000,
+    "etrTime": 1749810634000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -468,8 +468,8 @@
   {
     "id": 1854471,
     "startTime": 1749779758000,
-    "lastUpdatedTime": 1749787324000,
-    "etrTime": 1749808834000,
+    "lastUpdatedTime": 1749789123000,
+    "etrTime": 1749810634000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -548,6 +548,97 @@
           [
             -122.3239,
             47.47734
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "South Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1854493,
+    "startTime": 1749788820000,
+    "lastUpdatedTime": 1749789123000,
+    "etrTime": 1749810634000,
+    "title": "Outage",
+    "numPeople": 1,
+    "cause": "Investigating",
+    "identifier": "197777",
+    "latitude": 47.61088,
+    "longitude": -122.29469,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.29443,
+            47.6106
+          ],
+          [
+            -122.29454,
+            47.61054
+          ],
+          [
+            -122.29466,
+            47.61052
+          ],
+          [
+            -122.29478,
+            47.61056
+          ],
+          [
+            -122.2949,
+            47.61064
+          ],
+          [
+            -122.29496,
+            47.61074
+          ],
+          [
+            -122.29499,
+            47.61086
+          ],
+          [
+            -122.29496,
+            47.61098
+          ],
+          [
+            -122.2949,
+            47.61108
+          ],
+          [
+            -122.29476,
+            47.61118
+          ],
+          [
+            -122.29464,
+            47.6112
+          ],
+          [
+            -122.29452,
+            47.61118
+          ],
+          [
+            -122.29438,
+            47.61108
+          ],
+          [
+            -122.29431,
+            47.61098
+          ],
+          [
+            -122.29429,
+            47.61084
+          ],
+          [
+            -122.29433,
+            47.6107
           ]
         ]
       ],
