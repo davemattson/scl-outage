@@ -2,8 +2,8 @@
   {
     "id": 1858822,
     "startTime": 1750280358000,
-    "lastUpdatedTime": 1750314482000,
-    "etrTime": 1750335995000,
+    "lastUpdatedTime": 1750315323000,
+    "etrTime": 1750336895000,
     "title": "Outage",
     "numPeople": 91,
     "status": "Dispatched",
@@ -186,8 +186,8 @@
   {
     "id": 1859340,
     "startTime": 1750303449000,
-    "lastUpdatedTime": 1750314482000,
-    "etrTime": 1750335995000,
+    "lastUpdatedTime": 1750315323000,
+    "etrTime": 1750336530000,
     "title": "Outage",
     "numPeople": 32,
     "status": "Dispatched",
@@ -270,8 +270,8 @@
   {
     "id": 1859407,
     "startTime": 1750311060000,
-    "lastUpdatedTime": 1750314482000,
-    "etrTime": 1750350395000,
+    "lastUpdatedTime": 1750315323000,
+    "etrTime": 1750351295000,
     "title": "Outage",
     "numPeople": 28,
     "status": "Dispatched",
