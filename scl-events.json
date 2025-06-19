@@ -2,8 +2,8 @@
   {
     "id": 1859407,
     "startTime": 1750311060000,
-    "lastUpdatedTime": 1750357444000,
-    "etrTime": 1750382579000,
+    "lastUpdatedTime": 1750358284000,
+    "etrTime": 1750383479000,
     "title": "Outage",
     "numPeople": 92,
     "status": "Dispatched",
@@ -267,8 +267,8 @@
     "id": 1858822,
     "type": "PLANNED_OUTAGE",
     "startTime": 1750280358000,
-    "lastUpdatedTime": 1750357444000,
-    "etrTime": 1750368179000,
+    "lastUpdatedTime": 1750358284000,
+    "etrTime": 1750369079000,
     "title": "Planned Outage",
     "numPeople": 91,
     "status": "Dispatched",
@@ -347,94 +347,6 @@
           [
             -122.31267,
             47.62381
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "North Seattle",
-    "state": "WA"
-  },
-  {
-    "id": 1859811,
-    "startTime": 1750348664000,
-    "lastUpdatedTime": 1750357444000,
-    "etrTime": 1750367491000,
-    "title": "Outage",
-    "numPeople": 20,
-    "status": "Dispatched",
-    "cause": "Bird/Animal Contact",
-    "identifier": "198320",
-    "latitude": 47.71022,
-    "longitude": -122.32226,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.32257,
-            47.7104
-          ],
-          [
-            -122.32234,
-            47.71053
-          ],
-          [
-            -122.32214,
-            47.7106
-          ],
-          [
-            -122.32202,
-            47.7106
-          ],
-          [
-            -122.32191,
-            47.71056
-          ],
-          [
-            -122.32182,
-            47.71047
-          ],
-          [
-            -122.32177,
-            47.71036
-          ],
-          [
-            -122.32177,
-            47.71023
-          ],
-          [
-            -122.32186,
-            47.71007
-          ],
-          [
-            -122.32208,
-            47.70992
-          ],
-          [
-            -122.32232,
-            47.70983
-          ],
-          [
-            -122.32246,
-            47.70983
-          ],
-          [
-            -122.32262,
-            47.70991
-          ],
-          [
-            -122.32271,
-            47.71007
-          ],
-          [
-            -122.32269,
-            47.71025
           ]
         ]
       ],
