@@ -1,96 +1,13 @@
 [
   {
-    "id": 1860379,
-    "startTime": 1750432136000,
-    "lastUpdatedTime": 1750441803000,
-    "etrTime": 1750466895000,
-    "title": "Outage",
-    "numPeople": 6,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "198335",
-    "latitude": 47.77366,
-    "longitude": -122.36345,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.36356,
-            47.77429
-          ],
-          [
-            -122.3631,
-            47.7742
-          ],
-          [
-            -122.36299,
-            47.77409
-          ],
-          [
-            -122.36295,
-            47.77391
-          ],
-          [
-            -122.36304,
-            47.77335
-          ],
-          [
-            -122.36311,
-            47.77321
-          ],
-          [
-            -122.36326,
-            47.77311
-          ],
-          [
-            -122.36367,
-            47.77304
-          ],
-          [
-            -122.36384,
-            47.7731
-          ],
-          [
-            -122.36394,
-            47.77323
-          ],
-          [
-            -122.36398,
-            47.77384
-          ],
-          [
-            -122.36389,
-            47.7741
-          ],
-          [
-            -122.36382,
-            47.7742
-          ],
-          [
-            -122.3637,
-            47.77427
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "North Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1860469,
     "startTime": 1750438920000,
-    "lastUpdatedTime": 1750442044000,
-    "etrTime": 1750442044000,
+    "lastUpdatedTime": 1750442643000,
+    "etrTime": 1750453395000,
     "title": "Outage",
     "numPeople": 2,
-    "cause": "Investigating",
+    "status": "Dispatched",
+    "cause": "Bird/Animal Contact",
     "identifier": "198344",
     "latitude": 47.54721,
     "longitude": -122.31778,
@@ -169,8 +86,8 @@
   {
     "id": 1860468,
     "startTime": 1750441736000,
-    "lastUpdatedTime": 1750442044000,
-    "etrTime": 1750442044000,
+    "lastUpdatedTime": 1750442643000,
+    "etrTime": 1750464195000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
