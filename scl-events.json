@@ -3,8 +3,8 @@
     "id": 1858822,
     "type": "PLANNED_OUTAGE",
     "startTime": 1750280358000,
-    "lastUpdatedTime": 1750406885000,
-    "etrTime": 1750428479000,
+    "lastUpdatedTime": 1750408682000,
+    "etrTime": 1750430279000,
     "title": "Planned Outage",
     "numPeople": 91,
     "status": "Dispatched",
@@ -90,102 +90,6 @@
       "hasM": false
     },
     "city": "North Seattle",
-    "state": "WA"
-  },
-  {
-    "id": 1860236,
-    "startTime": 1750397635000,
-    "lastUpdatedTime": 1750406885000,
-    "etrTime": 1750428479000,
-    "title": "Outage",
-    "numPeople": 19,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "198333",
-    "latitude": 47.52216,
-    "longitude": -122.31875,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.31892,
-            47.52276
-          ],
-          [
-            -122.31812,
-            47.5227
-          ],
-          [
-            -122.31798,
-            47.52265
-          ],
-          [
-            -122.31758,
-            47.52222
-          ],
-          [
-            -122.31755,
-            47.52206
-          ],
-          [
-            -122.3176,
-            47.5219
-          ],
-          [
-            -122.3177,
-            47.52181
-          ],
-          [
-            -122.31847,
-            47.5214
-          ],
-          [
-            -122.31865,
-            47.52137
-          ],
-          [
-            -122.31877,
-            47.52141
-          ],
-          [
-            -122.31993,
-            47.52212
-          ],
-          [
-            -122.32005,
-            47.52227
-          ],
-          [
-            -122.32008,
-            47.52239
-          ],
-          [
-            -122.32005,
-            47.52251
-          ],
-          [
-            -122.31999,
-            47.52261
-          ],
-          [
-            -122.31988,
-            47.52268
-          ],
-          [
-            -122.31942,
-            47.52276
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "South Seattle",
     "state": "WA"
   }
 ]
