@@ -536,8 +536,8 @@
   {
     "id": 1861563,
     "startTime": 1750608136000,
-    "lastUpdatedTime": 1750626243000,
-    "etrTime": 1750647795000,
+    "lastUpdatedTime": 1750627204000,
+    "etrTime": 1750648695000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -626,102 +626,10 @@
     "state": "WA"
   },
   {
-    "id": 1861794,
-    "startTime": 1750615501000,
-    "lastUpdatedTime": 1750626243000,
-    "etrTime": 1750647795000,
-    "title": "Outage",
-    "numPeople": 1,
-    "status": "Dispatched",
-    "cause": "Bird/Animal Contact",
-    "identifier": "198393",
-    "latitude": 47.52194,
-    "longitude": -122.37649,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.37617,
-            47.52163
-          ],
-          [
-            -122.37628,
-            47.52157
-          ],
-          [
-            -122.3764,
-            47.52156
-          ],
-          [
-            -122.37652,
-            47.52159
-          ],
-          [
-            -122.37664,
-            47.52167
-          ],
-          [
-            -122.37671,
-            47.52178
-          ],
-          [
-            -122.37673,
-            47.5219
-          ],
-          [
-            -122.37671,
-            47.52202
-          ],
-          [
-            -122.37664,
-            47.52212
-          ],
-          [
-            -122.3765,
-            47.52221
-          ],
-          [
-            -122.37638,
-            47.52223
-          ],
-          [
-            -122.37626,
-            47.52221
-          ],
-          [
-            -122.37612,
-            47.52212
-          ],
-          [
-            -122.37605,
-            47.52202
-          ],
-          [
-            -122.37603,
-            47.52188
-          ],
-          [
-            -122.37607,
-            47.52174
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "South Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1861908,
     "startTime": 1750625924000,
-    "lastUpdatedTime": 1750626243000,
-    "etrTime": 1750647795000,
+    "lastUpdatedTime": 1750627204000,
+    "etrTime": 1750648695000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
