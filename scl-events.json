@@ -552,10 +552,11 @@
   {
     "id": 1873001,
     "startTime": 1751908143000,
-    "lastUpdatedTime": 1751910484000,
+    "lastUpdatedTime": 1751911084000,
     "etrTime": 1751932000000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "199105",
     "latitude": 47.73243,
