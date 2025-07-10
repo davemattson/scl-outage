@@ -1,10 +1,103 @@
 [
   {
+    "id": 1876519,
+    "type": "PLANNED_OUTAGE",
+    "startTime": 1752174864000,
+    "lastUpdatedTime": 1752178442000,
+    "etrTime": 1752199721000,
+    "title": "Planned Outage",
+    "numPeople": 2,
+    "status": "Dispatched",
+    "cause": "Planned Outage",
+    "identifier": "199278",
+    "latitude": 47.77451,
+    "longitude": -122.33356,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.3333,
+            47.77423
+          ],
+          [
+            -122.33341,
+            47.77417
+          ],
+          [
+            -122.33353,
+            47.77415
+          ],
+          [
+            -122.33365,
+            47.77418
+          ],
+          [
+            -122.33377,
+            47.77427
+          ],
+          [
+            -122.33383,
+            47.77437
+          ],
+          [
+            -122.33386,
+            47.77449
+          ],
+          [
+            -122.33383,
+            47.77461
+          ],
+          [
+            -122.33377,
+            47.77471
+          ],
+          [
+            -122.33363,
+            47.77481
+          ],
+          [
+            -122.33351,
+            47.77483
+          ],
+          [
+            -122.33339,
+            47.77481
+          ],
+          [
+            -122.33325,
+            47.77471
+          ],
+          [
+            -122.33318,
+            47.77461
+          ],
+          [
+            -122.33316,
+            47.77447
+          ],
+          [
+            -122.3332,
+            47.77433
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "North Seattle",
+    "state": "WA"
+  },
+  {
     "id": 1876526,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752176563000,
-    "lastUpdatedTime": 1752177483000,
-    "etrTime": 1752198821000,
+    "lastUpdatedTime": 1752178203000,
+    "etrTime": 1752199721000,
     "title": "Planned Outage",
     "numPeople": 2,
     "status": "Dispatched",
@@ -96,8 +189,8 @@
     "id": 1876395,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752155920000,
-    "lastUpdatedTime": 1752177243000,
-    "etrTime": 1752198821000,
+    "lastUpdatedTime": 1752178203000,
+    "etrTime": 1752199721000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -189,8 +282,8 @@
     "id": 1876486,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752169890000,
-    "lastUpdatedTime": 1752177243000,
-    "etrTime": 1752198821000,
+    "lastUpdatedTime": 1752178203000,
+    "etrTime": 1752199721000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -282,8 +375,8 @@
     "id": 1876506,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752173186000,
-    "lastUpdatedTime": 1752177243000,
-    "etrTime": 1752198821000,
+    "lastUpdatedTime": 1752178203000,
+    "etrTime": 1752199721000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -362,99 +455,6 @@
           [
             -122.3385,
             47.73365
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "North Seattle",
-    "state": "WA"
-  },
-  {
-    "id": 1876519,
-    "type": "PLANNED_OUTAGE",
-    "startTime": 1752174864000,
-    "lastUpdatedTime": 1752177243000,
-    "etrTime": 1752198821000,
-    "title": "Planned Outage",
-    "numPeople": 1,
-    "status": "Dispatched",
-    "cause": "Planned Outage",
-    "identifier": "199278",
-    "latitude": 47.77451,
-    "longitude": -122.33356,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.3333,
-            47.77423
-          ],
-          [
-            -122.33341,
-            47.77417
-          ],
-          [
-            -122.33353,
-            47.77415
-          ],
-          [
-            -122.33365,
-            47.77418
-          ],
-          [
-            -122.33377,
-            47.77427
-          ],
-          [
-            -122.33383,
-            47.77437
-          ],
-          [
-            -122.33386,
-            47.77449
-          ],
-          [
-            -122.33383,
-            47.77461
-          ],
-          [
-            -122.33377,
-            47.77471
-          ],
-          [
-            -122.33363,
-            47.77481
-          ],
-          [
-            -122.33351,
-            47.77483
-          ],
-          [
-            -122.33339,
-            47.77481
-          ],
-          [
-            -122.33325,
-            47.77471
-          ],
-          [
-            -122.33318,
-            47.77461
-          ],
-          [
-            -122.33316,
-            47.77447
-          ],
-          [
-            -122.3332,
-            47.77433
           ]
         ]
       ],
