@@ -3,8 +3,8 @@
     "id": 1877390,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752335940000,
-    "lastUpdatedTime": 1752352442000,
-    "etrTime": 1752352443000,
+    "lastUpdatedTime": 1752353043000,
+    "etrTime": 1752353043000,
     "title": "Planned Outage",
     "numPeople": 192,
     "status": "Dispatched",
@@ -768,99 +768,6 @@
           [
             -122.32699,
             47.594
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "South Seattle",
-    "state": "WA"
-  },
-  {
-    "id": 1877405,
-    "type": "PLANNED_OUTAGE",
-    "startTime": 1752341400000,
-    "lastUpdatedTime": 1752341884000,
-    "etrTime": 1752356160000,
-    "title": "Planned Outage",
-    "numPeople": 2,
-    "status": "Dispatched",
-    "cause": "Planned Outage",
-    "identifier": "199383",
-    "latitude": 47.48718,
-    "longitude": -122.35123,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.35096,
-            47.4869
-          ],
-          [
-            -122.35107,
-            47.48684
-          ],
-          [
-            -122.35119,
-            47.48682
-          ],
-          [
-            -122.35131,
-            47.48686
-          ],
-          [
-            -122.35143,
-            47.48694
-          ],
-          [
-            -122.3515,
-            47.48704
-          ],
-          [
-            -122.35152,
-            47.48716
-          ],
-          [
-            -122.3515,
-            47.48728
-          ],
-          [
-            -122.35143,
-            47.48738
-          ],
-          [
-            -122.35129,
-            47.48748
-          ],
-          [
-            -122.35117,
-            47.4875
-          ],
-          [
-            -122.35105,
-            47.48748
-          ],
-          [
-            -122.35092,
-            47.48738
-          ],
-          [
-            -122.35085,
-            47.48728
-          ],
-          [
-            -122.35082,
-            47.48714
-          ],
-          [
-            -122.35087,
-            47.487
           ]
         ]
       ],
