@@ -3,8 +3,8 @@
     "id": 1878376,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752506872000,
-    "lastUpdatedTime": 1752527164000,
-    "etrTime": 1752548720000,
+    "lastUpdatedTime": 1752528124000,
+    "etrTime": 1752549620000,
     "title": "Planned Outage",
     "numPeople": 4,
     "status": "Dispatched",
@@ -96,8 +96,8 @@
     "id": 1878446,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752513418000,
-    "lastUpdatedTime": 1752527164000,
-    "etrTime": 1752548720000,
+    "lastUpdatedTime": 1752528124000,
+    "etrTime": 1752549620000,
     "title": "Planned Outage",
     "numPeople": 2,
     "status": "Dispatched",
@@ -189,8 +189,8 @@
     "id": 1878480,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752515024000,
-    "lastUpdatedTime": 1752527164000,
-    "etrTime": 1752548720000,
+    "lastUpdatedTime": 1752528124000,
+    "etrTime": 1752549620000,
     "title": "Planned Outage",
     "numPeople": 2,
     "status": "Dispatched",
@@ -282,8 +282,8 @@
     "id": 1878495,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752516467000,
-    "lastUpdatedTime": 1752527164000,
-    "etrTime": 1752548720000,
+    "lastUpdatedTime": 1752528124000,
+    "etrTime": 1752549620000,
     "title": "Planned Outage",
     "numPeople": 2,
     "status": "Dispatched",
@@ -375,8 +375,8 @@
     "id": 1878496,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752516423000,
-    "lastUpdatedTime": 1752527164000,
-    "etrTime": 1752548720000,
+    "lastUpdatedTime": 1752528124000,
+    "etrTime": 1752549620000,
     "title": "Planned Outage",
     "numPeople": 2,
     "status": "Dispatched",
@@ -468,8 +468,8 @@
     "id": 1878740,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752526005000,
-    "lastUpdatedTime": 1752527164000,
-    "etrTime": 1752548720000,
+    "lastUpdatedTime": 1752528124000,
+    "etrTime": 1752549620000,
     "title": "Planned Outage",
     "numPeople": 2,
     "status": "Dispatched",
@@ -561,8 +561,8 @@
     "id": 1878512,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752519215000,
-    "lastUpdatedTime": 1752527164000,
-    "etrTime": 1752548720000,
+    "lastUpdatedTime": 1752528124000,
+    "etrTime": 1752549620000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -654,8 +654,8 @@
     "id": 1878524,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752520838000,
-    "lastUpdatedTime": 1752527164000,
-    "etrTime": 1752548720000,
+    "lastUpdatedTime": 1752528124000,
+    "etrTime": 1752549620000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -747,8 +747,8 @@
     "id": 1878527,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752521635000,
-    "lastUpdatedTime": 1752527164000,
-    "etrTime": 1752548720000,
+    "lastUpdatedTime": 1752528124000,
+    "etrTime": 1752549620000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -840,8 +840,8 @@
     "id": 1878545,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752523609000,
-    "lastUpdatedTime": 1752527164000,
-    "etrTime": 1752548720000,
+    "lastUpdatedTime": 1752528124000,
+    "etrTime": 1752549620000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -933,8 +933,8 @@
     "id": 1878549,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752523693000,
-    "lastUpdatedTime": 1752527164000,
-    "etrTime": 1752548720000,
+    "lastUpdatedTime": 1752528124000,
+    "etrTime": 1752549620000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1026,8 +1026,8 @@
     "id": 1878590,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752524347000,
-    "lastUpdatedTime": 1752527164000,
-    "etrTime": 1752548720000,
+    "lastUpdatedTime": 1752528124000,
+    "etrTime": 1752549620000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1119,8 +1119,8 @@
     "id": 1878678,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752525197000,
-    "lastUpdatedTime": 1752527164000,
-    "etrTime": 1752548720000,
+    "lastUpdatedTime": 1752528124000,
+    "etrTime": 1752549620000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1212,8 +1212,8 @@
     "id": 1878725,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752525788000,
-    "lastUpdatedTime": 1752527164000,
-    "etrTime": 1752548720000,
+    "lastUpdatedTime": 1752528124000,
+    "etrTime": 1752549620000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1305,8 +1305,8 @@
     "id": 1878798,
     "type": "PLANNED_OUTAGE",
     "startTime": 1752527062000,
-    "lastUpdatedTime": 1752527164000,
-    "etrTime": 1752548720000,
+    "lastUpdatedTime": 1752528124000,
+    "etrTime": 1752549620000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1385,6 +1385,99 @@
           [
             -122.39357,
             47.68494
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "North Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1878834,
+    "type": "PLANNED_OUTAGE",
+    "startTime": 1752528042000,
+    "lastUpdatedTime": 1752528484000,
+    "etrTime": 1752528484000,
+    "title": "Planned Outage",
+    "numPeople": 1,
+    "status": "Dispatched",
+    "cause": "Planned Outage",
+    "identifier": "199463",
+    "latitude": 47.77077,
+    "longitude": -122.30026,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.30009,
+            47.77053
+          ],
+          [
+            -122.3002,
+            47.77046
+          ],
+          [
+            -122.30033,
+            47.77045
+          ],
+          [
+            -122.30044,
+            47.77048
+          ],
+          [
+            -122.30056,
+            47.77056
+          ],
+          [
+            -122.30063,
+            47.77067
+          ],
+          [
+            -122.30066,
+            47.77079
+          ],
+          [
+            -122.30063,
+            47.77091
+          ],
+          [
+            -122.30056,
+            47.77101
+          ],
+          [
+            -122.30043,
+            47.7711
+          ],
+          [
+            -122.30031,
+            47.77112
+          ],
+          [
+            -122.30019,
+            47.7711
+          ],
+          [
+            -122.30005,
+            47.77101
+          ],
+          [
+            -122.29998,
+            47.77091
+          ],
+          [
+            -122.29996,
+            47.77077
+          ],
+          [
+            -122.3,
+            47.77063
           ]
         ]
       ],
