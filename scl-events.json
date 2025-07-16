@@ -2,15 +2,15 @@
   {
     "id": 1880161,
     "startTime": 1752680077000,
-    "lastUpdatedTime": 1752684243000,
-    "etrTime": 1752694575000,
+    "lastUpdatedTime": 1752686044000,
+    "etrTime": 1752696613000,
     "title": "Outage",
     "numPeople": 641,
     "status": "Dispatched",
-    "cause": "Investigating",
+    "cause": "Vehicle",
     "identifier": "199568",
     "latitude": 47.57292,
-    "longitude": -122.29012,
+    "longitude": -122.29011,
     "polygons": {
       "type": "polygon",
       "spatialReference": {
@@ -200,23 +200,35 @@
             47.57217
           ],
           [
-            -122.29159,
-            47.57229
+            -122.2916,
+            47.57226
+          ],
+          [
+            -122.2916,
+            47.57226
           ],
           [
             -122.29161,
-            47.57241
+            47.57239
           ],
           [
-            -122.29149,
-            47.57259
+            -122.29157,
+            47.5725
+          ],
+          [
+            -122.29146,
+            47.57262
           ],
           [
             -122.29129,
             47.57266
           ],
           [
-            -122.29016,
+            -122.29017,
+            47.57263
+          ],
+          [
+            -122.29015,
             47.57262
           ],
           [
@@ -574,10 +586,11 @@
   {
     "id": 1880234,
     "startTime": 1752684618000,
-    "lastUpdatedTime": 1752685203000,
-    "etrTime": 1752695942000,
+    "lastUpdatedTime": 1752685803000,
+    "etrTime": 1752696443000,
     "title": "Outage",
     "numPeople": 12,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "199573",
     "latitude": 47.61188,
@@ -665,8 +678,8 @@
   {
     "id": 1880186,
     "startTime": 1752681709000,
-    "lastUpdatedTime": 1752685203000,
-    "etrTime": 1752706742000,
+    "lastUpdatedTime": 1752685803000,
+    "etrTime": 1752707255000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
