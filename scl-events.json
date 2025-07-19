@@ -546,8 +546,8 @@
   {
     "id": 1883177,
     "startTime": 1752956172000,
-    "lastUpdatedTime": 1752963243000,
-    "etrTime": 1752984760000,
+    "lastUpdatedTime": 1752964084000,
+    "etrTime": 1752985660000,
     "title": "Outage",
     "numPeople": 5,
     "status": "Dispatched",
@@ -630,8 +630,8 @@
   {
     "id": 1883193,
     "startTime": 1752956995000,
-    "lastUpdatedTime": 1752963243000,
-    "etrTime": 1752984760000,
+    "lastUpdatedTime": 1752964084000,
+    "etrTime": 1752985660000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -720,14 +720,14 @@
     "state": "WA"
   },
   {
-    "id": 1883210,
-    "startTime": 1752960190000,
-    "lastUpdatedTime": 1752963243000,
-    "etrTime": 1752984760000,
+    "id": 1883224,
+    "startTime": 1752964088000,
+    "lastUpdatedTime": 1752964802000,
+    "etrTime": 1752964802000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
-    "identifier": "199772",
+    "identifier": "199774",
     "latitude": 47.61922,
     "longitude": -122.32044,
     "polygons": {
