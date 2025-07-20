@@ -2,8 +2,8 @@
   {
     "id": 1883293,
     "startTime": 1752953514000,
-    "lastUpdatedTime": 1752998523000,
-    "etrTime": 1753009200000,
+    "lastUpdatedTime": 1753008483000,
+    "etrTime": 1753016400000,
     "title": "Outage",
     "numPeople": 236,
     "status": "Dispatched",
@@ -198,8 +198,8 @@
   {
     "id": 1883193,
     "startTime": 1752956995000,
-    "lastUpdatedTime": 1753007283000,
-    "etrTime": 1753028860000,
+    "lastUpdatedTime": 1753008243000,
+    "etrTime": 1753029760000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
