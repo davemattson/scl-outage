@@ -2,8 +2,8 @@
   {
     "id": 1888216,
     "startTime": 1753392119000,
-    "lastUpdatedTime": 1753397403000,
-    "etrTime": 1753408120000,
+    "lastUpdatedTime": 1753398244000,
+    "etrTime": 1753419820000,
     "title": "Outage",
     "numPeople": 9,
     "status": "Dispatched",
@@ -94,8 +94,8 @@
   {
     "id": 1888191,
     "startTime": 1753389218000,
-    "lastUpdatedTime": 1753397403000,
-    "etrTime": 1753418920000,
+    "lastUpdatedTime": 1753398244000,
+    "etrTime": 1753419820000,
     "title": "Outage",
     "numPeople": 2,
     "status": "Dispatched",
@@ -184,10 +184,101 @@
     "state": "WA"
   },
   {
+    "id": 1888264,
+    "startTime": 1753398140000,
+    "lastUpdatedTime": 1753398483000,
+    "etrTime": 1753419820000,
+    "title": "Outage",
+    "numPeople": 2,
+    "cause": "Investigating",
+    "identifier": "200332",
+    "latitude": 47.51976,
+    "longitude": -122.35603,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.35581,
+            47.5195
+          ],
+          [
+            -122.35592,
+            47.51944
+          ],
+          [
+            -122.35604,
+            47.51942
+          ],
+          [
+            -122.35616,
+            47.51945
+          ],
+          [
+            -122.35628,
+            47.51954
+          ],
+          [
+            -122.35635,
+            47.51964
+          ],
+          [
+            -122.35637,
+            47.51976
+          ],
+          [
+            -122.35635,
+            47.51988
+          ],
+          [
+            -122.35628,
+            47.51998
+          ],
+          [
+            -122.35614,
+            47.52007
+          ],
+          [
+            -122.35602,
+            47.5201
+          ],
+          [
+            -122.3559,
+            47.52007
+          ],
+          [
+            -122.35576,
+            47.51998
+          ],
+          [
+            -122.3557,
+            47.51988
+          ],
+          [
+            -122.35567,
+            47.51974
+          ],
+          [
+            -122.35571,
+            47.5196
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "South Seattle",
+    "state": "WA"
+  },
+  {
     "id": 1888179,
     "startTime": 1753387482000,
-    "lastUpdatedTime": 1753397403000,
-    "etrTime": 1753418920000,
+    "lastUpdatedTime": 1753398244000,
+    "etrTime": 1753419820000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -371,8 +462,8 @@
   {
     "id": 1888210,
     "startTime": 1753390894000,
-    "lastUpdatedTime": 1753397403000,
-    "etrTime": 1753418920000,
+    "lastUpdatedTime": 1753398244000,
+    "etrTime": 1753419820000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -463,8 +554,8 @@
   {
     "id": 1888211,
     "startTime": 1753390769000,
-    "lastUpdatedTime": 1753397403000,
-    "etrTime": 1753418920000,
+    "lastUpdatedTime": 1753398244000,
+    "etrTime": 1753419820000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -555,8 +646,8 @@
   {
     "id": 1888218,
     "startTime": 1753392488000,
-    "lastUpdatedTime": 1753397403000,
-    "etrTime": 1753418920000,
+    "lastUpdatedTime": 1753398244000,
+    "etrTime": 1753419820000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -647,8 +738,8 @@
   {
     "id": 1888227,
     "startTime": 1753393987000,
-    "lastUpdatedTime": 1753397403000,
-    "etrTime": 1753418920000,
+    "lastUpdatedTime": 1753398244000,
+    "etrTime": 1753419820000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -739,8 +830,8 @@
   {
     "id": 1888248,
     "startTime": 1753396659000,
-    "lastUpdatedTime": 1753397403000,
-    "etrTime": 1753418920000,
+    "lastUpdatedTime": 1753398244000,
+    "etrTime": 1753419820000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
