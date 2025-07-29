@@ -2,8 +2,8 @@
   {
     "id": 1890470,
     "startTime": 1753765620000,
-    "lastUpdatedTime": 1753768445000,
-    "etrTime": 1753768445000,
+    "lastUpdatedTime": 1753769764000,
+    "etrTime": 1753769764000,
     "title": "Outage",
     "numPeople": 213,
     "status": "Dispatched",
@@ -354,8 +354,8 @@
   {
     "id": 1890466,
     "startTime": 1753764240000,
-    "lastUpdatedTime": 1753768084000,
-    "etrTime": 1753789566000,
+    "lastUpdatedTime": 1753768924000,
+    "etrTime": 1753790466000,
     "title": "Outage",
     "numPeople": 26,
     "status": "Dispatched",
@@ -618,8 +618,8 @@
   {
     "id": 1890033,
     "startTime": 1753734627000,
-    "lastUpdatedTime": 1753768084000,
-    "etrTime": 1753789566000,
+    "lastUpdatedTime": 1753768924000,
+    "etrTime": 1753790466000,
     "title": "Outage",
     "numPeople": 9,
     "status": "Dispatched",
@@ -803,8 +803,8 @@
   {
     "id": 1890181,
     "startTime": 1753748940000,
-    "lastUpdatedTime": 1753768084000,
-    "etrTime": 1753789566000,
+    "lastUpdatedTime": 1753768924000,
+    "etrTime": 1753790466000,
     "title": "Outage",
     "numPeople": 2,
     "status": "Dispatched",
@@ -893,102 +893,10 @@
     "state": "WA"
   },
   {
-    "id": 1890469,
-    "startTime": 1753765749000,
-    "lastUpdatedTime": 1753768445000,
-    "etrTime": 1753789566000,
-    "title": "Outage",
-    "numPeople": 2,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "200457",
-    "latitude": 47.50251,
-    "longitude": -122.32252,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.3224,
-            47.50229
-          ],
-          [
-            -122.32251,
-            47.50223
-          ],
-          [
-            -122.32264,
-            47.50222
-          ],
-          [
-            -122.32275,
-            47.50225
-          ],
-          [
-            -122.32287,
-            47.50233
-          ],
-          [
-            -122.32294,
-            47.50243
-          ],
-          [
-            -122.32297,
-            47.50255
-          ],
-          [
-            -122.32294,
-            47.50267
-          ],
-          [
-            -122.32287,
-            47.50278
-          ],
-          [
-            -122.32274,
-            47.50287
-          ],
-          [
-            -122.32262,
-            47.50289
-          ],
-          [
-            -122.32249,
-            47.50287
-          ],
-          [
-            -122.32236,
-            47.50278
-          ],
-          [
-            -122.32229,
-            47.50267
-          ],
-          [
-            -122.32227,
-            47.50253
-          ],
-          [
-            -122.32231,
-            47.5024
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "South Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1890039,
     "startTime": 1753735390000,
-    "lastUpdatedTime": 1753768084000,
-    "etrTime": 1753789566000,
+    "lastUpdatedTime": 1753768924000,
+    "etrTime": 1753790466000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1079,8 +987,8 @@
   {
     "id": 1890048,
     "startTime": 1753737168000,
-    "lastUpdatedTime": 1753768084000,
-    "etrTime": 1753789566000,
+    "lastUpdatedTime": 1753768924000,
+    "etrTime": 1753790466000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1171,8 +1079,8 @@
   {
     "id": 1890114,
     "startTime": 1753743018000,
-    "lastUpdatedTime": 1753768084000,
-    "etrTime": 1753789566000,
+    "lastUpdatedTime": 1753768924000,
+    "etrTime": 1753790466000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1263,8 +1171,8 @@
   {
     "id": 1890180,
     "startTime": 1753748945000,
-    "lastUpdatedTime": 1753768084000,
-    "etrTime": 1753789566000,
+    "lastUpdatedTime": 1753768924000,
+    "etrTime": 1753790466000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1355,8 +1263,8 @@
   {
     "id": 1890252,
     "startTime": 1753758835000,
-    "lastUpdatedTime": 1753768084000,
-    "etrTime": 1753789566000,
+    "lastUpdatedTime": 1753768924000,
+    "etrTime": 1753790466000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
