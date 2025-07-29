@@ -326,98 +326,10 @@
     "state": "WA"
   },
   {
-    "id": 1890555,
-    "startTime": 1753793377000,
-    "lastUpdatedTime": 1753808523000,
-    "etrTime": 1753819266000,
-    "title": "Outage",
-    "numPeople": 20,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "200460",
-    "latitude": 47.60588,
-    "longitude": -122.31475,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.31405,
-            47.60608
-          ],
-          [
-            -122.31403,
-            47.60588
-          ],
-          [
-            -122.31407,
-            47.60574
-          ],
-          [
-            -122.31428,
-            47.60545
-          ],
-          [
-            -122.31447,
-            47.60537
-          ],
-          [
-            -122.31505,
-            47.60538
-          ],
-          [
-            -122.3152,
-            47.60543
-          ],
-          [
-            -122.31532,
-            47.60557
-          ],
-          [
-            -122.31541,
-            47.60598
-          ],
-          [
-            -122.31537,
-            47.60615
-          ],
-          [
-            -122.31522,
-            47.60629
-          ],
-          [
-            -122.31455,
-            47.60635
-          ],
-          [
-            -122.31432,
-            47.60635
-          ],
-          [
-            -122.3142,
-            47.60631
-          ],
-          [
-            -122.3141,
-            47.60622
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "South Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1890686,
     "startTime": 1753804894000,
-    "lastUpdatedTime": 1753808523000,
-    "etrTime": 1753819266000,
+    "lastUpdatedTime": 1753809604000,
+    "etrTime": 1753820361000,
     "title": "Outage",
     "numPeople": 11,
     "status": "Dispatched",
@@ -500,8 +412,8 @@
   {
     "id": 1890607,
     "startTime": 1753798043000,
-    "lastUpdatedTime": 1753808523000,
-    "etrTime": 1753830066000,
+    "lastUpdatedTime": 1753809604000,
+    "etrTime": 1753831161000,
     "title": "Outage",
     "numPeople": 3,
     "status": "Dispatched",
@@ -592,8 +504,8 @@
   {
     "id": 1890622,
     "startTime": 1753798968000,
-    "lastUpdatedTime": 1753808523000,
-    "etrTime": 1753830066000,
+    "lastUpdatedTime": 1753809604000,
+    "etrTime": 1753831161000,
     "title": "Outage",
     "numPeople": 2,
     "status": "Dispatched",
