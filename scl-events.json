@@ -1,94 +1,10 @@
 [
   {
-    "id": 1893281,
-    "startTime": 1754178517000,
-    "lastUpdatedTime": 1754215803000,
-    "etrTime": 1754251790000,
-    "title": "Outage",
-    "numPeople": 6,
-    "status": "Dispatched",
-    "cause": "Equipment Failure",
-    "identifier": "200654",
-    "latitude": 47.74556,
-    "longitude": -122.36131,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.36134,
-            47.74497
-          ],
-          [
-            -122.36183,
-            47.74505
-          ],
-          [
-            -122.362,
-            47.74519
-          ],
-          [
-            -122.36204,
-            47.74539
-          ],
-          [
-            -122.36191,
-            47.7459
-          ],
-          [
-            -122.36183,
-            47.74601
-          ],
-          [
-            -122.36168,
-            47.74609
-          ],
-          [
-            -122.36097,
-            47.74617
-          ],
-          [
-            -122.36083,
-            47.74614
-          ],
-          [
-            -122.3607,
-            47.74604
-          ],
-          [
-            -122.36064,
-            47.74589
-          ],
-          [
-            -122.36069,
-            47.74521
-          ],
-          [
-            -122.36076,
-            47.74511
-          ],
-          [
-            -122.36088,
-            47.74503
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "North Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1892952,
     "type": "PLANNED_OUTAGE",
     "startTime": 1754097971000,
-    "lastUpdatedTime": 1754215803000,
-    "etrTime": 1754237390000,
+    "lastUpdatedTime": 1754216763000,
+    "etrTime": 1754238290000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
