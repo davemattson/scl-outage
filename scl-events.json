@@ -1,90 +1,5 @@
 [
   {
-    "id": 1893813,
-    "type": "PLANNED_OUTAGE",
-    "startTime": 1754322449000,
-    "lastUpdatedTime": 1754330284000,
-    "etrTime": 1754334000000,
-    "title": "Planned Outage",
-    "numPeople": 5,
-    "status": "Dispatched",
-    "cause": "Planned Outage",
-    "identifier": "200675",
-    "latitude": 47.73368,
-    "longitude": -122.33297,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.33336,
-            47.7341
-          ],
-          [
-            -122.33264,
-            47.73411
-          ],
-          [
-            -122.33246,
-            47.73404
-          ],
-          [
-            -122.33238,
-            47.73395
-          ],
-          [
-            -122.33234,
-            47.73383
-          ],
-          [
-            -122.33231,
-            47.7335
-          ],
-          [
-            -122.33237,
-            47.73332
-          ],
-          [
-            -122.33248,
-            47.73323
-          ],
-          [
-            -122.33264,
-            47.7332
-          ],
-          [
-            -122.3334,
-            47.73332
-          ],
-          [
-            -122.33353,
-            47.73338
-          ],
-          [
-            -122.33364,
-            47.73355
-          ],
-          [
-            -122.33367,
-            47.73385
-          ],
-          [
-            -122.33357,
-            47.73403
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "North Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1893845,
     "type": "PLANNED_OUTAGE",
     "startTime": 1754326825000,
@@ -169,8 +84,8 @@
     "id": 1892952,
     "type": "PLANNED_OUTAGE",
     "startTime": 1754097971000,
-    "lastUpdatedTime": 1754333523000,
-    "etrTime": 1754355083000,
+    "lastUpdatedTime": 1754334484000,
+    "etrTime": 1754355983000,
     "title": "Planned Outage",
     "numPeople": 1,
     "status": "Dispatched",
