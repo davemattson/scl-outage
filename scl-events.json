@@ -839,10 +839,11 @@
   {
     "id": 1894002,
     "startTime": 1754379632000,
-    "lastUpdatedTime": 1754380323000,
-    "etrTime": 1754401883000,
+    "lastUpdatedTime": 1754382123000,
+    "etrTime": 1754403683000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "200709",
     "latitude": 47.67844,
