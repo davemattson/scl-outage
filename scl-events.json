@@ -2,8 +2,8 @@
   {
     "id": 1894249,
     "startTime": 1754415490000,
-    "lastUpdatedTime": 1754427003000,
-    "etrTime": 1754448523000,
+    "lastUpdatedTime": 1754427843000,
+    "etrTime": 1754449423000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -94,8 +94,8 @@
   {
     "id": 1894254,
     "startTime": 1754415858000,
-    "lastUpdatedTime": 1754427003000,
-    "etrTime": 1754448523000,
+    "lastUpdatedTime": 1754427843000,
+    "etrTime": 1754449423000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -186,8 +186,8 @@
   {
     "id": 1894296,
     "startTime": 1754419271000,
-    "lastUpdatedTime": 1754427003000,
-    "etrTime": 1754448523000,
+    "lastUpdatedTime": 1754427843000,
+    "etrTime": 1754449423000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -278,8 +278,8 @@
   {
     "id": 1894300,
     "startTime": 1754420216000,
-    "lastUpdatedTime": 1754427003000,
-    "etrTime": 1754448523000,
+    "lastUpdatedTime": 1754427843000,
+    "etrTime": 1754449423000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -358,6 +358,98 @@
           [
             -122.30593,
             47.66535
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "North Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1894368,
+    "startTime": 1754427407000,
+    "lastUpdatedTime": 1754427843000,
+    "etrTime": 1754449423000,
+    "title": "Outage",
+    "numPeople": 1,
+    "status": "Dispatched",
+    "cause": "Investigating",
+    "identifier": "200728",
+    "latitude": 47.76963,
+    "longitude": -122.30079,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.30042,
+            47.76931
+          ],
+          [
+            -122.30053,
+            47.76925
+          ],
+          [
+            -122.30065,
+            47.76923
+          ],
+          [
+            -122.30077,
+            47.76926
+          ],
+          [
+            -122.30089,
+            47.76935
+          ],
+          [
+            -122.30096,
+            47.76945
+          ],
+          [
+            -122.30098,
+            47.76957
+          ],
+          [
+            -122.30096,
+            47.76969
+          ],
+          [
+            -122.30089,
+            47.76979
+          ],
+          [
+            -122.30075,
+            47.76988
+          ],
+          [
+            -122.30063,
+            47.76991
+          ],
+          [
+            -122.30051,
+            47.76988
+          ],
+          [
+            -122.30038,
+            47.76979
+          ],
+          [
+            -122.30031,
+            47.76969
+          ],
+          [
+            -122.30028,
+            47.76955
+          ],
+          [
+            -122.30033,
+            47.76941
           ]
         ]
       ],
