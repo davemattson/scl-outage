@@ -2,8 +2,8 @@
   {
     "id": 1894249,
     "startTime": 1754415490000,
-    "lastUpdatedTime": 1754430603000,
-    "etrTime": 1754452123000,
+    "lastUpdatedTime": 1754432403000,
+    "etrTime": 1754453923000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -94,8 +94,8 @@
   {
     "id": 1894254,
     "startTime": 1754415858000,
-    "lastUpdatedTime": 1754430603000,
-    "etrTime": 1754452123000,
+    "lastUpdatedTime": 1754432403000,
+    "etrTime": 1754453923000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -186,8 +186,8 @@
   {
     "id": 1894296,
     "startTime": 1754419271000,
-    "lastUpdatedTime": 1754430603000,
-    "etrTime": 1754452123000,
+    "lastUpdatedTime": 1754432403000,
+    "etrTime": 1754453923000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -278,8 +278,8 @@
   {
     "id": 1894300,
     "startTime": 1754420216000,
-    "lastUpdatedTime": 1754430603000,
-    "etrTime": 1754452123000,
+    "lastUpdatedTime": 1754432403000,
+    "etrTime": 1754453923000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -370,8 +370,8 @@
   {
     "id": 1894368,
     "startTime": 1754427407000,
-    "lastUpdatedTime": 1754430603000,
-    "etrTime": 1754452123000,
+    "lastUpdatedTime": 1754432403000,
+    "etrTime": 1754453923000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -462,8 +462,8 @@
   {
     "id": 1894389,
     "startTime": 1754430612000,
-    "lastUpdatedTime": 1754431203000,
-    "etrTime": 1754431203000,
+    "lastUpdatedTime": 1754432403000,
+    "etrTime": 1754453923000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -542,6 +542,188 @@
           [
             -122.28413,
             47.47123
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "South Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1894402,
+    "startTime": 1754432098000,
+    "lastUpdatedTime": 1754432403000,
+    "etrTime": 1754453923000,
+    "title": "Outage",
+    "numPeople": 1,
+    "cause": "Investigating",
+    "identifier": "200733",
+    "latitude": 47.69829,
+    "longitude": -122.36512,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.36486,
+            47.698
+          ],
+          [
+            -122.36497,
+            47.69794
+          ],
+          [
+            -122.36509,
+            47.69793
+          ],
+          [
+            -122.36521,
+            47.69796
+          ],
+          [
+            -122.36533,
+            47.69804
+          ],
+          [
+            -122.3654,
+            47.69814
+          ],
+          [
+            -122.36542,
+            47.69826
+          ],
+          [
+            -122.3654,
+            47.69839
+          ],
+          [
+            -122.36533,
+            47.69849
+          ],
+          [
+            -122.36519,
+            47.69858
+          ],
+          [
+            -122.36507,
+            47.6986
+          ],
+          [
+            -122.36495,
+            47.69858
+          ],
+          [
+            -122.36481,
+            47.69849
+          ],
+          [
+            -122.36474,
+            47.69839
+          ],
+          [
+            -122.36472,
+            47.69824
+          ],
+          [
+            -122.36476,
+            47.69811
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "North Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1894403,
+    "startTime": 1754432085000,
+    "lastUpdatedTime": 1754432403000,
+    "etrTime": 1754453923000,
+    "title": "Outage",
+    "numPeople": 1,
+    "cause": "Investigating",
+    "identifier": "200732",
+    "latitude": 47.48773,
+    "longitude": -122.26072,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.26066,
+            47.48752
+          ],
+          [
+            -122.26077,
+            47.48746
+          ],
+          [
+            -122.26089,
+            47.48745
+          ],
+          [
+            -122.26101,
+            47.48748
+          ],
+          [
+            -122.26113,
+            47.48756
+          ],
+          [
+            -122.26119,
+            47.48767
+          ],
+          [
+            -122.26122,
+            47.48779
+          ],
+          [
+            -122.26119,
+            47.48791
+          ],
+          [
+            -122.26113,
+            47.48801
+          ],
+          [
+            -122.26099,
+            47.4881
+          ],
+          [
+            -122.26087,
+            47.48812
+          ],
+          [
+            -122.26075,
+            47.4881
+          ],
+          [
+            -122.26061,
+            47.48801
+          ],
+          [
+            -122.26054,
+            47.48791
+          ],
+          [
+            -122.26052,
+            47.48777
+          ],
+          [
+            -122.26056,
+            47.48763
           ]
         ]
       ],
