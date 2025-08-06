@@ -1,5 +1,94 @@
 [
   {
+    "id": 1894675,
+    "type": "PLANNED_OUTAGE",
+    "startTime": 1754492838000,
+    "lastUpdatedTime": 1754493003000,
+    "etrTime": 1754523000000,
+    "title": "Planned Outage",
+    "numPeople": 10,
+    "status": "Dispatched",
+    "cause": "Planned Outage",
+    "identifier": "200749",
+    "latitude": 47.50749,
+    "longitude": -122.34488,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.3457,
+            47.5081
+          ],
+          [
+            -122.34502,
+            47.5083
+          ],
+          [
+            -122.34424,
+            47.50797
+          ],
+          [
+            -122.34416,
+            47.50787
+          ],
+          [
+            -122.34413,
+            47.50775
+          ],
+          [
+            -122.3441,
+            47.50696
+          ],
+          [
+            -122.34417,
+            47.50677
+          ],
+          [
+            -122.34429,
+            47.50669
+          ],
+          [
+            -122.34443,
+            47.50666
+          ],
+          [
+            -122.345,
+            47.50675
+          ],
+          [
+            -122.34515,
+            47.50682
+          ],
+          [
+            -122.34589,
+            47.50768
+          ],
+          [
+            -122.34591,
+            47.5078
+          ],
+          [
+            -122.34588,
+            47.50794
+          ],
+          [
+            -122.34581,
+            47.50804
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "South Seattle",
+    "state": "WA"
+  },
+  {
     "id": 1894531,
     "type": "PLANNED_OUTAGE",
     "startTime": 1754445214000,
@@ -467,8 +556,8 @@
   {
     "id": 1894645,
     "startTime": 1754489089000,
-    "lastUpdatedTime": 1754491803000,
-    "etrTime": 1754516923000,
+    "lastUpdatedTime": 1754493603000,
+    "etrTime": 1754518723000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
