@@ -2,8 +2,8 @@
   {
     "id": 1896134,
     "startTime": 1754783957000,
-    "lastUpdatedTime": 1754799243000,
-    "etrTime": 1754835225000,
+    "lastUpdatedTime": 1754801043000,
+    "etrTime": 1754837025000,
     "title": "Outage",
     "numPeople": 56,
     "status": "Dispatched",
@@ -326,8 +326,8 @@
   {
     "id": 1896165,
     "startTime": 1754792590000,
-    "lastUpdatedTime": 1754799243000,
-    "etrTime": 1754835225000,
+    "lastUpdatedTime": 1754801043000,
+    "etrTime": 1754837025000,
     "title": "Outage",
     "numPeople": 36,
     "status": "Dispatched",
@@ -418,8 +418,8 @@
   {
     "id": 1896149,
     "startTime": 1754789094000,
-    "lastUpdatedTime": 1754799243000,
-    "etrTime": 1754820825000,
+    "lastUpdatedTime": 1754801043000,
+    "etrTime": 1754822625000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -498,97 +498,6 @@
           [
             -122.38057,
             47.54405
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "South Seattle",
-    "state": "WA"
-  },
-  {
-    "id": 1896171,
-    "startTime": 1754793652000,
-    "lastUpdatedTime": 1754799243000,
-    "etrTime": 1754820825000,
-    "title": "Outage",
-    "numPeople": 1,
-    "cause": "Investigating",
-    "identifier": "201259",
-    "latitude": 47.56271,
-    "longitude": -122.38585,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.38558,
-            47.56243
-          ],
-          [
-            -122.38569,
-            47.56237
-          ],
-          [
-            -122.38581,
-            47.56236
-          ],
-          [
-            -122.38593,
-            47.56239
-          ],
-          [
-            -122.38605,
-            47.56247
-          ],
-          [
-            -122.38612,
-            47.56257
-          ],
-          [
-            -122.38614,
-            47.56269
-          ],
-          [
-            -122.38612,
-            47.56281
-          ],
-          [
-            -122.38605,
-            47.56292
-          ],
-          [
-            -122.38591,
-            47.56301
-          ],
-          [
-            -122.38579,
-            47.56303
-          ],
-          [
-            -122.38567,
-            47.56301
-          ],
-          [
-            -122.38553,
-            47.56292
-          ],
-          [
-            -122.38546,
-            47.56281
-          ],
-          [
-            -122.38544,
-            47.56267
-          ],
-          [
-            -122.38548,
-            47.56254
           ]
         ]
       ],
