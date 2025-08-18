@@ -363,10 +363,11 @@
   {
     "id": 1901055,
     "startTime": 1755545503000,
-    "lastUpdatedTime": 1755545763000,
+    "lastUpdatedTime": 1755546003000,
     "etrTime": 1755567354000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "201723",
     "latitude": 47.46643,
