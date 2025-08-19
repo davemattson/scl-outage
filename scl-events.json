@@ -2,8 +2,8 @@
   {
     "id": 1901599,
     "startTime": 1755599640000,
-    "lastUpdatedTime": 1755614763000,
-    "etrTime": 1755614763000,
+    "lastUpdatedTime": 1755615244000,
+    "etrTime": 1755615244000,
     "title": "Outage",
     "numPeople": 135,
     "cause": "Investigating",
@@ -497,8 +497,8 @@
   {
     "id": 1901486,
     "startTime": 1755594666000,
-    "lastUpdatedTime": 1755614165000,
-    "etrTime": 1755624954000,
+    "lastUpdatedTime": 1755615123000,
+    "etrTime": 1755625854000,
     "title": "Outage",
     "numPeople": 16,
     "cause": "Tree/Vegetation",
