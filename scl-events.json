@@ -662,8 +662,8 @@
   {
     "id": 1903858,
     "startTime": 1756044662000,
-    "lastUpdatedTime": 1756064764000,
-    "etrTime": 1756100710000,
+    "lastUpdatedTime": 1756066564000,
+    "etrTime": 1756102510000,
     "title": "Outage",
     "numPeople": 38,
     "status": "Dispatched",
@@ -824,103 +824,11 @@
     "state": "WA"
   },
   {
-    "id": 1903884,
-    "startTime": 1756051030000,
-    "lastUpdatedTime": 1756064764000,
-    "etrTime": 1756086310000,
-    "title": "Outage",
-    "numPeople": 3,
-    "status": "Dispatched",
-    "cause": "Bird/Animal Contact",
-    "identifier": "201963",
-    "latitude": 47.75845,
-    "longitude": -122.3153,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.31498,
-            47.75815
-          ],
-          [
-            -122.31509,
-            47.75809
-          ],
-          [
-            -122.31521,
-            47.75807
-          ],
-          [
-            -122.31533,
-            47.7581
-          ],
-          [
-            -122.31545,
-            47.75819
-          ],
-          [
-            -122.31552,
-            47.75829
-          ],
-          [
-            -122.31554,
-            47.75841
-          ],
-          [
-            -122.31552,
-            47.75853
-          ],
-          [
-            -122.31545,
-            47.75863
-          ],
-          [
-            -122.31531,
-            47.75872
-          ],
-          [
-            -122.31519,
-            47.75875
-          ],
-          [
-            -122.31507,
-            47.75872
-          ],
-          [
-            -122.31493,
-            47.75863
-          ],
-          [
-            -122.31486,
-            47.75853
-          ],
-          [
-            -122.31484,
-            47.75839
-          ],
-          [
-            -122.31488,
-            47.75825
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "North Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1903892,
     "type": "PLANNED_OUTAGE",
     "startTime": 1756052112000,
-    "lastUpdatedTime": 1756064764000,
-    "etrTime": 1756086310000,
+    "lastUpdatedTime": 1756066564000,
+    "etrTime": 1756088110000,
     "title": "Planned Outage",
     "numPeople": 2,
     "status": "Dispatched",
