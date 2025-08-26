@@ -95,10 +95,11 @@
   {
     "id": 1905027,
     "startTime": 1756235964000,
-    "lastUpdatedTime": 1756250523000,
-    "etrTime": 1756272035000,
+    "lastUpdatedTime": 1756251363000,
+    "etrTime": 1756272935000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "202058",
     "latitude": 47.62996,
