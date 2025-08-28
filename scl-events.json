@@ -666,10 +666,11 @@
   {
     "id": 1905688,
     "startTime": 1756408277000,
-    "lastUpdatedTime": 1756408923000,
+    "lastUpdatedTime": 1756409282000,
     "etrTime": 1756434019000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "202156",
     "latitude": 47.53818,
