@@ -582,10 +582,10 @@
   {
     "id": 1905505,
     "startTime": 1756386235000,
-    "lastUpdatedTime": 1756388404000,
+    "lastUpdatedTime": 1756388884000,
     "etrTime": 1756409980000,
     "title": "Outage",
-    "numPeople": 1,
+    "numPeople": 2,
     "cause": "Investigating",
     "identifier": "202136",
     "latitude": 47.53243,
