@@ -466,8 +466,8 @@
   {
     "id": 1907023,
     "startTime": 1756853223000,
-    "lastUpdatedTime": 1756853403000,
-    "etrTime": 1756853403000,
+    "lastUpdatedTime": 1756853763000,
+    "etrTime": 1756853764000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -557,8 +557,8 @@
   {
     "id": 1907024,
     "startTime": 1756853385000,
-    "lastUpdatedTime": 1756853403000,
-    "etrTime": 1756853403000,
+    "lastUpdatedTime": 1756853763000,
+    "etrTime": 1756853764000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
