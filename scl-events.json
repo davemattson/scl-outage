@@ -520,10 +520,10 @@
   {
     "id": 1909286,
     "startTime": 1757197712000,
-    "lastUpdatedTime": 1757198046000,
+    "lastUpdatedTime": 1757203085000,
     "etrTime": 1757219436000,
     "title": "Outage",
-    "numPeople": 3,
+    "numPeople": 2,
     "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "202804",
