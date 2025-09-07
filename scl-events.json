@@ -2,10 +2,10 @@
   {
     "id": 1909279,
     "startTime": 1757192795000,
-    "lastUpdatedTime": 1757235246000,
+    "lastUpdatedTime": 1757235367000,
     "etrTime": 1757238817000,
     "title": "Outage",
-    "numPeople": 522,
+    "numPeople": 526,
     "status": "Dispatched",
     "cause": "Equipment Failure",
     "identifier": "202797",
