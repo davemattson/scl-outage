@@ -2,10 +2,11 @@
   {
     "id": 1909551,
     "startTime": 1757317162000,
-    "lastUpdatedTime": 1757323683000,
+    "lastUpdatedTime": 1757325844000,
     "etrTime": 1757339143000,
     "title": "Outage",
     "numPeople": 111,
+    "status": "Dispatched",
     "cause": "Equipment Failure",
     "identifier": "202813",
     "latitude": 47.6326,
