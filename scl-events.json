@@ -984,10 +984,11 @@
   {
     "id": 1910756,
     "startTime": 1757612173000,
-    "lastUpdatedTime": 1757612404000,
+    "lastUpdatedTime": 1757613244000,
     "etrTime": 1757633906000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "202944",
     "latitude": 47.74378,
