@@ -1691,10 +1691,11 @@
   {
     "id": 1910997,
     "startTime": 1757698358000,
-    "lastUpdatedTime": 1757698563000,
-    "etrTime": 1757698563000,
+    "lastUpdatedTime": 1757698924000,
+    "etrTime": 1757698924000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "202993",
     "latitude": 47.55304,
