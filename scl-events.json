@@ -994,10 +994,10 @@
   {
     "id": 1911046,
     "startTime": 1757704459000,
-    "lastUpdatedTime": 1757704682000,
+    "lastUpdatedTime": 1757708522000,
     "etrTime": 1757726154000,
     "title": "Outage",
-    "numPeople": 2,
+    "numPeople": 3,
     "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "202997",
