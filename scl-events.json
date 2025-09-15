@@ -1648,99 +1648,10 @@
     "state": "WA"
   },
   {
-    "id": 1911901,
-    "type": "PLANNED_OUTAGE",
-    "startTime": 1757951874000,
-    "lastUpdatedTime": 1757952020000,
-    "etrTime": 1757962800000,
-    "title": "Planned Outage",
-    "numPeople": 10,
-    "status": "Dispatched",
-    "cause": "Planned Outage",
-    "identifier": "203049",
-    "latitude": 47.637,
-    "longitude": -122.32034,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.31949,
-            47.63676
-          ],
-          [
-            -122.31957,
-            47.63653
-          ],
-          [
-            -122.31974,
-            47.63642
-          ],
-          [
-            -122.32062,
-            47.63642
-          ],
-          [
-            -122.32075,
-            47.63645
-          ],
-          [
-            -122.32085,
-            47.63653
-          ],
-          [
-            -122.32091,
-            47.63664
-          ],
-          [
-            -122.32114,
-            47.63735
-          ],
-          [
-            -122.32111,
-            47.63756
-          ],
-          [
-            -122.32097,
-            47.6377
-          ],
-          [
-            -122.32077,
-            47.63772
-          ],
-          [
-            -122.31963,
-            47.63721
-          ],
-          [
-            -122.31953,
-            47.63714
-          ],
-          [
-            -122.31947,
-            47.63703
-          ],
-          [
-            -122.31945,
-            47.63691
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "North Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1911919,
     "startTime": 1757957636000,
-    "lastUpdatedTime": 1757958137000,
-    "etrTime": 1757958137000,
+    "lastUpdatedTime": 1757958497000,
+    "etrTime": 1757980053000,
     "title": "Outage",
     "numPeople": 2,
     "status": "Dispatched",
