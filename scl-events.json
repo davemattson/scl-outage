@@ -755,10 +755,11 @@
   {
     "id": 1912391,
     "startTime": 1758073056000,
-    "lastUpdatedTime": 1758073443000,
+    "lastUpdatedTime": 1758076922000,
     "etrTime": 1758094999000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "203110",
     "latitude": 47.69939,
