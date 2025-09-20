@@ -2,11 +2,11 @@
   {
     "id": 1913677,
     "startTime": 1758382143000,
-    "lastUpdatedTime": 1758382923000,
+    "lastUpdatedTime": 1758386042000,
     "etrTime": 1758403831000,
     "title": "Outage",
     "numPeople": 28,
-    "cause": "Investigating",
+    "cause": "Equipment Failure",
     "identifier": "203212",
     "latitude": 47.73808,
     "longitude": -122.28963,
