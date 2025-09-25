@@ -86,8 +86,8 @@
           ]
         ]
       ],
-      "hasZ": false,
-      "hasM": false
+      "hasM": false,
+      "hasZ": false
     },
     "city": "North Seattle",
     "state": "WA"
@@ -179,10 +179,100 @@
           ]
         ]
       ],
-      "hasZ": false,
-      "hasM": false
+      "hasM": false,
+      "hasZ": false
     },
     "city": "South Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1917208,
+    "startTime": 1758828671000,
+    "lastUpdatedTime": 1758828724000,
+    "title": "Outage",
+    "numPeople": 1,
+    "cause": "Investigating",
+    "identifier": "203411",
+    "latitude": 47.64411,
+    "longitude": -122.3843,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.38393,
+            47.64379
+          ],
+          [
+            -122.38404,
+            47.64372
+          ],
+          [
+            -122.38416,
+            47.64371
+          ],
+          [
+            -122.38428,
+            47.64374
+          ],
+          [
+            -122.3844,
+            47.64382
+          ],
+          [
+            -122.38447,
+            47.64393
+          ],
+          [
+            -122.38449,
+            47.64405
+          ],
+          [
+            -122.38447,
+            47.64417
+          ],
+          [
+            -122.3844,
+            47.64427
+          ],
+          [
+            -122.38426,
+            47.64436
+          ],
+          [
+            -122.38414,
+            47.64438
+          ],
+          [
+            -122.38402,
+            47.64436
+          ],
+          [
+            -122.38389,
+            47.64427
+          ],
+          [
+            -122.38382,
+            47.64417
+          ],
+          [
+            -122.38379,
+            47.64403
+          ],
+          [
+            -122.38384,
+            47.64389
+          ]
+        ]
+      ],
+      "hasM": false,
+      "hasZ": false
+    },
+    "city": "North Seattle",
     "state": "WA"
   }
 ]
