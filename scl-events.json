@@ -86,8 +86,8 @@
           ]
         ]
       ],
-      "hasZ": false,
-      "hasM": false
+      "hasM": false,
+      "hasZ": false
     },
     "city": "North Seattle",
     "state": "WA"
@@ -179,8 +179,8 @@
           ]
         ]
       ],
-      "hasZ": false,
-      "hasM": false
+      "hasM": false,
+      "hasZ": false
     },
     "city": "South Seattle",
     "state": "WA"
@@ -188,9 +188,11 @@
   {
     "id": 1917208,
     "startTime": 1758828671000,
-    "lastUpdatedTime": 1758828724000,
+    "lastUpdatedTime": 1758829564000,
+    "etrTime": 1758851132000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "203411",
     "latitude": 47.64411,
@@ -269,8 +271,8 @@
           ]
         ]
       ],
-      "hasZ": false,
-      "hasM": false
+      "hasM": false,
+      "hasZ": false
     },
     "city": "North Seattle",
     "state": "WA"
