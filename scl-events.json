@@ -1,5 +1,95 @@
 [
   {
+    "id": 1917493,
+    "startTime": 1758899865000,
+    "lastUpdatedTime": 1758900002000,
+    "title": "Outage",
+    "numPeople": 2,
+    "cause": "Investigating",
+    "identifier": "203754",
+    "latitude": 47.66355,
+    "longitude": -122.30124,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.30103,
+            47.66329
+          ],
+          [
+            -122.30114,
+            47.66323
+          ],
+          [
+            -122.30126,
+            47.66321
+          ],
+          [
+            -122.30138,
+            47.66325
+          ],
+          [
+            -122.3015,
+            47.66333
+          ],
+          [
+            -122.30157,
+            47.66343
+          ],
+          [
+            -122.30159,
+            47.66355
+          ],
+          [
+            -122.30157,
+            47.66367
+          ],
+          [
+            -122.3015,
+            47.66377
+          ],
+          [
+            -122.30136,
+            47.66387
+          ],
+          [
+            -122.30124,
+            47.66389
+          ],
+          [
+            -122.30112,
+            47.66387
+          ],
+          [
+            -122.30098,
+            47.66377
+          ],
+          [
+            -122.30091,
+            47.66367
+          ],
+          [
+            -122.30089,
+            47.66353
+          ],
+          [
+            -122.30093,
+            47.66339
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "North Seattle",
+    "state": "WA"
+  },
+  {
     "id": 1917197,
     "type": "PLANNED_OUTAGE",
     "startTime": 1758825230000,
@@ -86,8 +176,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "North Seattle",
     "state": "WA"
@@ -179,8 +269,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "South Seattle",
     "state": "WA"
@@ -272,8 +362,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "South Seattle",
     "state": "WA"
