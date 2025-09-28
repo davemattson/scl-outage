@@ -2,8 +2,8 @@
   {
     "id": 1918082,
     "startTime": 1759070594000,
-    "lastUpdatedTime": 1759075323000,
-    "etrTime": 1759093200000,
+    "lastUpdatedTime": 1759092603000,
+    "etrTime": 1759104000000,
     "title": "Outage",
     "numPeople": 44,
     "status": "Dispatched",
@@ -153,8 +153,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "North Seattle",
     "state": "WA"
