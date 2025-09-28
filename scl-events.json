@@ -2,12 +2,12 @@
   {
     "id": 1918082,
     "startTime": 1759070594000,
-    "lastUpdatedTime": 1759074363000,
-    "etrTime": 1759092693000,
+    "lastUpdatedTime": 1759075323000,
+    "etrTime": 1759093200000,
     "title": "Outage",
     "numPeople": 44,
     "status": "Dispatched",
-    "cause": "Investigating",
+    "cause": "Equipment Failure",
     "identifier": "204007",
     "latitude": 47.67789,
     "longitude": -122.32751,
@@ -153,8 +153,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "North Seattle",
     "state": "WA"
