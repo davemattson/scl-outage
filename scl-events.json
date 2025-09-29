@@ -639,10 +639,11 @@
   {
     "id": 1918478,
     "startTime": 1759183368000,
-    "lastUpdatedTime": 1759183563000,
+    "lastUpdatedTime": 1759184043000,
     "etrTime": 1759205074000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "204056",
     "latitude": 47.71476,
