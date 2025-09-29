@@ -82,8 +82,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "South Seattle",
     "state": "WA"
@@ -163,8 +163,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "South Seattle",
     "state": "WA"
@@ -254,8 +254,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "North Seattle",
     "state": "WA"
@@ -346,8 +346,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "South Seattle",
     "state": "WA"
@@ -439,8 +439,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "South Seattle",
     "state": "WA"
@@ -532,8 +532,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "South Seattle",
     "state": "WA"
@@ -625,99 +625,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
-    },
-    "city": "South Seattle",
-    "state": "WA"
-  },
-  {
-    "id": 1918448,
-    "startTime": 1759176205000,
-    "lastUpdatedTime": 1759176362000,
-    "etrTime": 1759197874000,
-    "title": "Outage",
-    "numPeople": 1,
-    "cause": "Investigating",
-    "identifier": "204048",
-    "latitude": 47.61793,
-    "longitude": -122.32048,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.32032,
-            47.61769
-          ],
-          [
-            -122.32043,
-            47.61763
-          ],
-          [
-            -122.32055,
-            47.61762
-          ],
-          [
-            -122.32067,
-            47.61765
-          ],
-          [
-            -122.32079,
-            47.61773
-          ],
-          [
-            -122.32086,
-            47.61783
-          ],
-          [
-            -122.32088,
-            47.61795
-          ],
-          [
-            -122.32086,
-            47.61807
-          ],
-          [
-            -122.32079,
-            47.61818
-          ],
-          [
-            -122.32065,
-            47.61827
-          ],
-          [
-            -122.32053,
-            47.61829
-          ],
-          [
-            -122.32041,
-            47.61827
-          ],
-          [
-            -122.32027,
-            47.61818
-          ],
-          [
-            -122.3202,
-            47.61807
-          ],
-          [
-            -122.32018,
-            47.61793
-          ],
-          [
-            -122.32022,
-            47.6178
-          ]
-        ]
-      ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "South Seattle",
     "state": "WA"
@@ -809,8 +718,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "South Seattle",
     "state": "WA"
