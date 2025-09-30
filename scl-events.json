@@ -166,8 +166,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "South Seattle",
     "state": "WA"
@@ -298,8 +298,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "North Seattle",
     "state": "WA"
@@ -382,8 +382,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "South Seattle",
     "state": "WA"
@@ -473,8 +473,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "South Seattle",
     "state": "WA"
@@ -482,7 +482,8 @@
   {
     "id": 1918822,
     "startTime": 1759275724000,
-    "lastUpdatedTime": 1759275844000,
+    "lastUpdatedTime": 1759276445000,
+    "etrTime": 1759297979000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -563,8 +564,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "North Seattle",
     "state": "WA"
