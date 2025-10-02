@@ -339,8 +339,8 @@
           ]
         ]
       ],
-      "hasZ": false,
-      "hasM": false
+      "hasM": false,
+      "hasZ": false
     },
     "city": "North Seattle",
     "state": "WA"
@@ -348,7 +348,8 @@
   {
     "id": 1919262,
     "startTime": 1759419409000,
-    "lastUpdatedTime": 1759419484000,
+    "lastUpdatedTime": 1759419724000,
+    "etrTime": 1759441213000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -429,8 +430,8 @@
           ]
         ]
       ],
-      "hasZ": false,
-      "hasM": false
+      "hasM": false,
+      "hasZ": false
     },
     "city": "South Seattle",
     "state": "WA"
