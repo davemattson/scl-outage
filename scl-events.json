@@ -2,9 +2,11 @@
   {
     "id": 1919475,
     "startTime": 1759468127000,
-    "lastUpdatedTime": 1759468322000,
+    "lastUpdatedTime": 1759468925000,
+    "etrTime": 1759504889000,
     "title": "Outage",
     "numPeople": 307,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "204219",
     "latitude": 47.62341,
@@ -443,8 +445,8 @@
           ]
         ]
       ],
-      "hasM": false,
-      "hasZ": false
+      "hasZ": false,
+      "hasM": false
     },
     "city": "North Seattle",
     "state": "WA"
