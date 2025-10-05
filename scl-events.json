@@ -2,7 +2,8 @@
   {
     "id": 1919993,
     "startTime": 1759678162000,
-    "lastUpdatedTime": 1759678203000,
+    "lastUpdatedTime": 1759678922000,
+    "etrTime": 1759700509000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
@@ -83,8 +84,8 @@
           ]
         ]
       ],
-      "hasZ": false,
-      "hasM": false
+      "hasM": false,
+      "hasZ": false
     },
     "city": "South Seattle",
     "state": "WA"
