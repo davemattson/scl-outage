@@ -739,10 +739,11 @@
   {
     "id": 1921465,
     "startTime": 1759878769000,
-    "lastUpdatedTime": 1759879563000,
+    "lastUpdatedTime": 1759880883000,
     "etrTime": 1759901043000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "204577",
     "latitude": 47.68269,
