@@ -914,7 +914,8 @@
   {
     "id": 1922399,
     "startTime": 1760049117000,
-    "lastUpdatedTime": 1760049243000,
+    "lastUpdatedTime": 1760050083000,
+    "etrTime": 1760071620000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
