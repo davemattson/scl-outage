@@ -1,16 +1,16 @@
 [
   {
     "id": 1922709,
-    "startTime": 1760125594000,
-    "lastUpdatedTime": 1760126404000,
+    "startTime": 1760125560000,
+    "lastUpdatedTime": 1760128203000,
     "etrTime": 1760151317000,
     "title": "Outage",
-    "numPeople": 86,
+    "numPeople": 81,
     "status": "Dispatched",
-    "cause": "Investigating",
+    "cause": "Bird/Animal Contact",
     "identifier": "204709",
-    "latitude": 47.62241,
-    "longitude": -122.33352,
+    "latitude": 47.62235,
+    "longitude": -122.33362,
     "polygons": {
       "type": "polygon",
       "spatialReference": {
@@ -96,44 +96,28 @@
             47.62263
           ],
           [
-            -122.33359,
-            47.62263
+            -122.33356,
+            47.62249
           ],
           [
-            -122.33352,
-            47.62273
+            -122.3335,
+            47.62253
           ],
           [
             -122.33338,
-            47.62282
+            47.62255
           ],
           [
             -122.33326,
-            47.62284
+            47.62253
           ],
           [
-            -122.33314,
-            47.62282
+            -122.33313,
+            47.62244
           ],
           [
-            -122.333,
-            47.62273
-          ],
-          [
-            -122.33294,
-            47.62263
-          ],
-          [
-            -122.33291,
-            47.62248
-          ],
-          [
-            -122.33295,
-            47.62235
-          ],
-          [
-            -122.33304,
-            47.62225
+            -122.33306,
+            47.62233
           ],
           [
             -122.33303,
@@ -619,9 +603,11 @@
   {
     "id": 1922716,
     "startTime": 1760127480000,
-    "lastUpdatedTime": 1760127483000,
+    "lastUpdatedTime": 1760127963000,
+    "etrTime": 1760149517000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "204714",
     "latitude": 47.75991,
