@@ -684,104 +684,13 @@
     "state": "WA"
   },
   {
-    "id": 1922916,
-    "startTime": 1760202384000,
-    "lastUpdatedTime": 1760235123000,
-    "etrTime": 1760245800000,
-    "title": "Outage",
-    "numPeople": 1,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "204732",
-    "latitude": 47.63325,
-    "longitude": -122.39667,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.3965,
-            47.633
-          ],
-          [
-            -122.39662,
-            47.63294
-          ],
-          [
-            -122.39674,
-            47.63293
-          ],
-          [
-            -122.39686,
-            47.63296
-          ],
-          [
-            -122.39697,
-            47.63304
-          ],
-          [
-            -122.39704,
-            47.63314
-          ],
-          [
-            -122.39707,
-            47.63326
-          ],
-          [
-            -122.39704,
-            47.63339
-          ],
-          [
-            -122.39697,
-            47.63349
-          ],
-          [
-            -122.39684,
-            47.63358
-          ],
-          [
-            -122.39672,
-            47.6336
-          ],
-          [
-            -122.3966,
-            47.63358
-          ],
-          [
-            -122.39646,
-            47.63349
-          ],
-          [
-            -122.39639,
-            47.63339
-          ],
-          [
-            -122.39637,
-            47.63324
-          ],
-          [
-            -122.39641,
-            47.63311
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "North Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1922995,
     "startTime": 1760244882000,
-    "lastUpdatedTime": 1760244964000,
+    "lastUpdatedTime": 1760246884000,
     "etrTime": 1760266517000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "204751",
     "latitude": 47.6372,
