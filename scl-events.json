@@ -7072,10 +7072,11 @@
   {
     "id": 1923811,
     "startTime": 1760381338000,
-    "lastUpdatedTime": 1760382127000,
+    "lastUpdatedTime": 1760382847000,
     "etrTime": 1760407300000,
     "title": "Outage",
     "numPeople": 31,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "204791",
     "latitude": 47.46255,
