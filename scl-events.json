@@ -283,6 +283,103 @@
     "state": "WA"
   },
   {
+    "id": 1924458,
+    "type": "PLANNED_OUTAGE",
+    "startTime": 1760549940000,
+    "lastUpdatedTime": 1760551564000,
+    "etrTime": 1760565600000,
+    "title": "Planned Outage",
+    "numPeople": 12,
+    "status": "Dispatched",
+    "cause": "Planned Outage",
+    "identifier": "204923",
+    "latitude": 47.68351,
+    "longitude": -122.27605,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.27651,
+            47.6843
+          ],
+          [
+            -122.27539,
+            47.68397
+          ],
+          [
+            -122.27527,
+            47.68389
+          ],
+          [
+            -122.27519,
+            47.68377
+          ],
+          [
+            -122.27503,
+            47.68318
+          ],
+          [
+            -122.27504,
+            47.68304
+          ],
+          [
+            -122.27512,
+            47.68292
+          ],
+          [
+            -122.27522,
+            47.68285
+          ],
+          [
+            -122.27536,
+            47.68282
+          ],
+          [
+            -122.27673,
+            47.68298
+          ],
+          [
+            -122.27691,
+            47.68306
+          ],
+          [
+            -122.27698,
+            47.68317
+          ],
+          [
+            -122.277,
+            47.68329
+          ],
+          [
+            -122.2769,
+            47.6841
+          ],
+          [
+            -122.27684,
+            47.6842
+          ],
+          [
+            -122.27674,
+            47.68428
+          ],
+          [
+            -122.27662,
+            47.68431
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "North Seattle",
+    "state": "WA"
+  },
+  {
     "id": 1924396,
     "type": "PLANNED_OUTAGE",
     "startTime": 1760540495000,
@@ -458,10 +555,11 @@
   {
     "id": 1924453,
     "startTime": 1760550221000,
-    "lastUpdatedTime": 1760550724000,
+    "lastUpdatedTime": 1760552404000,
     "etrTime": 1760572243000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "204922",
     "latitude": 47.53265,
