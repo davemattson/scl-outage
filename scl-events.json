@@ -1,13 +1,14 @@
 [
   {
     "id": 1924554,
+    "type": "PLANNED_OUTAGE",
     "startTime": 1760583960000,
-    "lastUpdatedTime": 1760584923000,
-    "etrTime": 1760606443000,
-    "title": "Outage",
+    "lastUpdatedTime": 1760587922000,
+    "etrTime": 1760613600000,
+    "title": "Planned Outage",
     "numPeople": 26,
     "status": "Dispatched",
-    "cause": "Investigating",
+    "cause": "Planned Outage",
     "identifier": "204948",
     "latitude": 47.67104,
     "longitude": -122.27816,
