@@ -407,7 +407,8 @@
   {
     "id": 1924913,
     "startTime": 1760708560000,
-    "lastUpdatedTime": 1760708643000,
+    "lastUpdatedTime": 1760709123000,
+    "etrTime": 1760730641000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
