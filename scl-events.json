@@ -2636,10 +2636,11 @@
   {
     "id": 1925973,
     "startTime": 1760901360000,
-    "lastUpdatedTime": 1760907012000,
+    "lastUpdatedTime": 1760909293000,
     "etrTime": 1760923156000,
     "title": "Outage",
     "numPeople": 3,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "205072",
     "latitude": 47.53033,
