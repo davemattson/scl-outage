@@ -195,10 +195,11 @@
   {
     "id": 1927355,
     "startTime": 1761206666000,
-    "lastUpdatedTime": 1761207484000,
+    "lastUpdatedTime": 1761210125000,
     "etrTime": 1761229065000,
     "title": "Outage",
     "numPeople": 2,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "205244",
     "latitude": 47.73135,
