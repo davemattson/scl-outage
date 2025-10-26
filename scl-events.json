@@ -8207,10 +8207,11 @@
   {
     "id": 1927983,
     "startTime": 1761454460000,
-    "lastUpdatedTime": 1761516483000,
+    "lastUpdatedTime": 1761518645000,
     "etrTime": 1761544800000,
     "title": "Outage",
     "numPeople": 2,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "205447",
     "latitude": 47.69485,
