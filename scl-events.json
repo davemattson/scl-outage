@@ -44997,7 +44997,8 @@
   {
     "id": 1928111,
     "startTime": 1761475103000,
-    "lastUpdatedTime": 1761475208000,
+    "lastUpdatedTime": 1761475448000,
+    "etrTime": 1761496982000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
