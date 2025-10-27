@@ -2416,10 +2416,11 @@
   {
     "id": 1928322,
     "startTime": 1761547080000,
-    "lastUpdatedTime": 1761549963000,
+    "lastUpdatedTime": 1761552842000,
     "etrTime": 1761569882000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "206020",
     "latitude": 47.60995,
