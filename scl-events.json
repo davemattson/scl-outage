@@ -442,10 +442,10 @@
   {
     "id": 1928049,
     "startTime": 1761458661000,
-    "lastUpdatedTime": 1761555003000,
+    "lastUpdatedTime": 1761594363000,
     "etrTime": 1761591540000,
     "title": "Outage",
-    "numPeople": 4,
+    "numPeople": 5,
     "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "205596",
@@ -2172,8 +2172,8 @@
   {
     "id": 1928204,
     "startTime": 1761501618000,
-    "lastUpdatedTime": 1761540123000,
-    "etrTime": 1761591540000,
+    "lastUpdatedTime": 1761594604000,
+    "etrTime": 1761602400000,
     "title": "Outage",
     "numPeople": 2,
     "status": "Dispatched",
