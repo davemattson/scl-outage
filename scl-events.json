@@ -774,10 +774,11 @@
   {
     "id": 1927994,
     "startTime": 1761455036000,
-    "lastUpdatedTime": 1761539642000,
+    "lastUpdatedTime": 1761574564000,
     "etrTime": 1761591540000,
     "title": "Outage",
     "numPeople": 3,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "205461",
     "latitude": 47.66965,
