@@ -3370,10 +3370,10 @@
   {
     "id": 1930645,
     "startTime": 1762031718000,
-    "lastUpdatedTime": 1762032129000,
-    "etrTime": 1762053696000,
+    "lastUpdatedTime": 1762035248000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "206433",
     "latitude": 47.52876,
