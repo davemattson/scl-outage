@@ -705,14 +705,14 @@
     "state": "WA"
   },
   {
-    "id": 1934662,
-    "startTime": 1762983842000,
-    "lastUpdatedTime": 1762984323000,
-    "etrTime": 1763005871000,
+    "id": 1934667,
+    "startTime": 1762984968000,
+    "lastUpdatedTime": 1762985282000,
+    "etrTime": 1763006771000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
-    "identifier": "207028",
+    "identifier": "207029",
     "latitude": 47.7696,
     "longitude": -122.37395,
     "polygons": {
