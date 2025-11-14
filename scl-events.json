@@ -935,10 +935,11 @@
   {
     "id": 1935167,
     "startTime": 1763140133000,
-    "lastUpdatedTime": 1763140924000,
+    "lastUpdatedTime": 1763142364000,
     "etrTime": 1763162413000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "207110",
     "latitude": 47.60636,
