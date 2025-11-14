@@ -709,10 +709,11 @@
   {
     "id": 1935289,
     "startTime": 1763154912000,
-    "lastUpdatedTime": 1763155203000,
+    "lastUpdatedTime": 1763155923000,
     "etrTime": 1763176795000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "207131",
     "latitude": 47.55136,
