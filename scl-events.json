@@ -306,10 +306,11 @@
   {
     "id": 1936511,
     "startTime": 1763565271000,
-    "lastUpdatedTime": 1763565604000,
+    "lastUpdatedTime": 1763569443000,
     "etrTime": 1763587164000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "207294",
     "latitude": 47.49603,
