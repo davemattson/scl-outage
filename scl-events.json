@@ -3375,10 +3375,11 @@
   {
     "id": 1936867,
     "startTime": 1763653457000,
-    "lastUpdatedTime": 1763654282000,
+    "lastUpdatedTime": 1763655723000,
     "etrTime": 1763675779000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "207345",
     "latitude": 47.56369,
