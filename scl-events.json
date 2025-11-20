@@ -607,7 +607,8 @@
   {
     "id": 1936923,
     "startTime": 1763660967000,
-    "lastUpdatedTime": 1763661002000,
+    "lastUpdatedTime": 1763661483000,
+    "etrTime": 1763682979000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
