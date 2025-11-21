@@ -6001,9 +6001,11 @@
   {
     "id": 1937142,
     "startTime": 1763742065000,
-    "lastUpdatedTime": 1763742125000,
+    "lastUpdatedTime": 1763742965000,
+    "etrTime": 1763764487000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "207415",
     "latitude": 47.60121,
