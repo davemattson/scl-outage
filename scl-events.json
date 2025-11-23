@@ -1803,10 +1803,10 @@
   },
   {
     "id": 1937568,
-    "startTime": 1763940374000,
-    "lastUpdatedTime": 1763940486000,
+    "startTime": 1763932770000,
+    "lastUpdatedTime": 1763940606000,
     "title": "Outage",
-    "numPeople": 1,
+    "numPeople": 4,
     "cause": "Investigating",
     "identifier": "207501",
     "latitude": 47.61811,
