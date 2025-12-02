@@ -311,10 +311,11 @@
   {
     "id": 1940132,
     "startTime": 1764697473000,
-    "lastUpdatedTime": 1764697562000,
+    "lastUpdatedTime": 1764699364000,
     "etrTime": 1764719141000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "207750",
     "latitude": 47.75986,
