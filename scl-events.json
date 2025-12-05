@@ -9275,9 +9275,10 @@
   {
     "id": 1941719,
     "startTime": 1764967104000,
-    "lastUpdatedTime": 1764967227000,
+    "lastUpdatedTime": 1764967587000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "207932",
     "latitude": 47.50317,
