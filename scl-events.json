@@ -183,7 +183,8 @@
   {
     "id": 1942352,
     "startTime": 1765149085000,
-    "lastUpdatedTime": 1765149123000,
+    "lastUpdatedTime": 1765149843000,
+    "etrTime": 1765171343000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
