@@ -745,10 +745,11 @@
   {
     "id": 1942739,
     "startTime": 1765228765000,
-    "lastUpdatedTime": 1765228924000,
+    "lastUpdatedTime": 1765230364000,
     "etrTime": 1765250412000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "208095",
     "latitude": 47.70203,
