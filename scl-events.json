@@ -173,14 +173,106 @@
     "state": "WA"
   },
   {
-    "id": 1942913,
-    "startTime": 1765251183000,
-    "lastUpdatedTime": 1765251723000,
-    "etrTime": 1765272912000,
+    "id": 1942942,
+    "startTime": 1765254222000,
+    "lastUpdatedTime": 1765254963000,
+    "etrTime": 1765276512000,
     "title": "Outage",
     "numPeople": 1,
-    "status": "Dispatched",
     "cause": "Investigating",
+    "identifier": "208135",
+    "latitude": 47.76648,
+    "longitude": -122.28155,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.28144,
+            47.76626
+          ],
+          [
+            -122.28155,
+            47.7662
+          ],
+          [
+            -122.28167,
+            47.76619
+          ],
+          [
+            -122.28179,
+            47.76622
+          ],
+          [
+            -122.28191,
+            47.7663
+          ],
+          [
+            -122.28198,
+            47.7664
+          ],
+          [
+            -122.282,
+            47.76652
+          ],
+          [
+            -122.28198,
+            47.76664
+          ],
+          [
+            -122.28191,
+            47.76675
+          ],
+          [
+            -122.28177,
+            47.76684
+          ],
+          [
+            -122.28165,
+            47.76686
+          ],
+          [
+            -122.28153,
+            47.76684
+          ],
+          [
+            -122.2814,
+            47.76675
+          ],
+          [
+            -122.28133,
+            47.76664
+          ],
+          [
+            -122.2813,
+            47.7665
+          ],
+          [
+            -122.28135,
+            47.76637
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "North Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1942913,
+    "type": "PLANNED_OUTAGE",
+    "startTime": 1765251183000,
+    "lastUpdatedTime": 1765253523000,
+    "etrTime": 1765272912000,
+    "title": "Planned Outage",
+    "numPeople": 1,
+    "status": "Dispatched",
+    "cause": "Planned Outage",
     "identifier": "208134",
     "latitude": 47.66277,
     "longitude": -122.342,
