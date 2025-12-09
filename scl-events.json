@@ -278,7 +278,8 @@
   {
     "id": 1943119,
     "startTime": 1765301834000,
-    "lastUpdatedTime": 1765302603000,
+    "lastUpdatedTime": 1765302723000,
+    "etrTime": 1765324212000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -369,9 +370,11 @@
   {
     "id": 1943121,
     "startTime": 1765302321000,
-    "lastUpdatedTime": 1765302363000,
+    "lastUpdatedTime": 1765302723000,
+    "etrTime": 1765324212000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "208165",
     "latitude": 47.70173,
@@ -459,7 +462,8 @@
   {
     "id": 1943122,
     "startTime": 1765302260000,
-    "lastUpdatedTime": 1765302363000,
+    "lastUpdatedTime": 1765302723000,
+    "etrTime": 1765324212000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
