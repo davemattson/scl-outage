@@ -2019,7 +2019,8 @@
   {
     "id": 1943769,
     "startTime": 1765436863000,
-    "lastUpdatedTime": 1765436883000,
+    "lastUpdatedTime": 1765437843000,
+    "etrTime": 1765459336000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
