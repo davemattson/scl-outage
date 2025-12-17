@@ -832,10 +832,11 @@
   {
     "id": 1945638,
     "startTime": 1766006250000,
-    "lastUpdatedTime": 1766006763000,
+    "lastUpdatedTime": 1766014562000,
     "etrTime": 1766028248000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "208839",
     "latitude": 47.63662,
