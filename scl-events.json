@@ -1473,10 +1473,11 @@
   {
     "id": 1945600,
     "startTime": 1765999627000,
-    "lastUpdatedTime": 1766000403000,
+    "lastUpdatedTime": 1766000883000,
     "etrTime": 1766021948000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "208828",
     "latitude": 47.67507,
