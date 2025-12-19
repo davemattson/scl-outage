@@ -1,13 +1,12 @@
 [
   {
-    "id": 1948044,
-    "startTime": 1766160813000,
-    "lastUpdatedTime": 1766161323000,
-    "etrTime": 1766182922000,
+    "id": 1948108,
+    "startTime": 1766162802000,
+    "lastUpdatedTime": 1766162883000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
-    "identifier": "208983",
+    "identifier": "208984",
     "latitude": 47.51253,
     "longitude": -122.30993,
     "polygons": {
