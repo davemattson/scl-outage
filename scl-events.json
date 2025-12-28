@@ -182,11 +182,11 @@
   {
     "id": 1951491,
     "startTime": 1766949215000,
-    "lastUpdatedTime": 1766959563000,
+    "lastUpdatedTime": 1766962922000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
-    "cause": "Investigating",
+    "cause": "Equipment Failure",
     "identifier": "209229",
     "latitude": 47.58601,
     "longitude": -122.3531,
