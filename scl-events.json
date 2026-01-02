@@ -186,10 +186,11 @@
   {
     "id": 1953397,
     "startTime": 1767377419000,
-    "lastUpdatedTime": 1767378124000,
+    "lastUpdatedTime": 1767380043000,
     "etrTime": 1767399668000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "209340",
     "latitude": 47.75361,
