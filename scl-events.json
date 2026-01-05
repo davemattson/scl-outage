@@ -682,13 +682,13 @@
     "state": "WA"
   },
   {
-    "id": 1954017,
-    "startTime": 1767645707000,
-    "lastUpdatedTime": 1767645724000,
+    "id": 1954022,
+    "startTime": 1767646272000,
+    "lastUpdatedTime": 1767646323000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
-    "identifier": "209426",
+    "identifier": "209430",
     "latitude": 47.71785,
     "longitude": -122.29442,
     "polygons": {
