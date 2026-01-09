@@ -280,7 +280,8 @@
   {
     "id": 1955365,
     "startTime": 1767977624000,
-    "lastUpdatedTime": 1767977883000,
+    "lastUpdatedTime": 1767978362000,
+    "etrTime": 1768003538000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
