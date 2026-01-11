@@ -803,7 +803,8 @@
   {
     "id": 1956226,
     "startTime": 1768164701000,
-    "lastUpdatedTime": 1768164724000,
+    "lastUpdatedTime": 1768164964000,
+    "etrTime": 1768186479000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
