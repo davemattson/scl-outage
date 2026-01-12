@@ -746,10 +746,11 @@
     "id": 1956484,
     "type": "PLANNED_OUTAGE",
     "startTime": 1768249013000,
-    "lastUpdatedTime": 1768250164000,
+    "lastUpdatedTime": 1768250283000,
     "etrTime": 1769135460000,
     "title": "Planned Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Planned Outage",
     "identifier": "209674",
     "latitude": 47.6098,
@@ -917,6 +918,99 @@
           [
             -122.29305,
             47.58416
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "South Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 1956493,
+    "type": "PLANNED_OUTAGE",
+    "startTime": 1768250286000,
+    "lastUpdatedTime": 1768250404000,
+    "etrTime": 1769114340000,
+    "title": "Planned Outage",
+    "numPeople": 1,
+    "status": "Dispatched",
+    "cause": "Planned Outage",
+    "identifier": "209677",
+    "latitude": 47.60571,
+    "longitude": -122.32047,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.32025,
+            47.60545
+          ],
+          [
+            -122.32037,
+            47.60539
+          ],
+          [
+            -122.32049,
+            47.60537
+          ],
+          [
+            -122.32061,
+            47.6054
+          ],
+          [
+            -122.32072,
+            47.60549
+          ],
+          [
+            -122.32079,
+            47.60559
+          ],
+          [
+            -122.32082,
+            47.60571
+          ],
+          [
+            -122.32079,
+            47.60583
+          ],
+          [
+            -122.32072,
+            47.60593
+          ],
+          [
+            -122.32059,
+            47.60602
+          ],
+          [
+            -122.32047,
+            47.60605
+          ],
+          [
+            -122.32035,
+            47.60602
+          ],
+          [
+            -122.32021,
+            47.60593
+          ],
+          [
+            -122.32014,
+            47.60583
+          ],
+          [
+            -122.32012,
+            47.60569
+          ],
+          [
+            -122.32016,
+            47.60555
           ]
         ]
       ],
