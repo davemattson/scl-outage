@@ -836,98 +836,6 @@
     "state": "WA"
   },
   {
-    "id": 1956485,
-    "startTime": 1768249141000,
-    "lastUpdatedTime": 1768250164000,
-    "etrTime": 1768271487000,
-    "title": "Outage",
-    "numPeople": 1,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "209675",
-    "latitude": 47.58434,
-    "longitude": -122.29341,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.29314,
-            47.58406
-          ],
-          [
-            -122.29326,
-            47.584
-          ],
-          [
-            -122.29338,
-            47.58398
-          ],
-          [
-            -122.2935,
-            47.58401
-          ],
-          [
-            -122.29361,
-            47.5841
-          ],
-          [
-            -122.29368,
-            47.5842
-          ],
-          [
-            -122.29371,
-            47.58432
-          ],
-          [
-            -122.29368,
-            47.58444
-          ],
-          [
-            -122.29361,
-            47.58454
-          ],
-          [
-            -122.29348,
-            47.58464
-          ],
-          [
-            -122.29336,
-            47.58466
-          ],
-          [
-            -122.29324,
-            47.58464
-          ],
-          [
-            -122.2931,
-            47.58454
-          ],
-          [
-            -122.29303,
-            47.58444
-          ],
-          [
-            -122.29301,
-            47.5843
-          ],
-          [
-            -122.29305,
-            47.58416
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "South Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1956493,
     "type": "PLANNED_OUTAGE",
     "startTime": 1768250286000,
@@ -1022,12 +930,14 @@
   },
   {
     "id": 1956498,
+    "type": "PLANNED_OUTAGE",
     "startTime": 1768251435000,
-    "lastUpdatedTime": 1768251724000,
-    "etrTime": 1768273287000,
-    "title": "Outage",
+    "lastUpdatedTime": 1768253284000,
+    "etrTime": 1769137260000,
+    "title": "Planned Outage",
     "numPeople": 1,
-    "cause": "Investigating",
+    "status": "Dispatched",
+    "cause": "Planned Outage",
     "identifier": "209679",
     "latitude": 47.73227,
     "longitude": -122.29501,
