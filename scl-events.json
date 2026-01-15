@@ -1110,15 +1110,15 @@
     "state": "WA"
   },
   {
-    "id": 1957101,
+    "id": 1957378,
     "startTime": 1768426649000,
-    "lastUpdatedTime": 1768452603000,
+    "lastUpdatedTime": 1768461124000,
     "etrTime": 1768478400000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
     "cause": "Investigating",
-    "identifier": "209758",
+    "identifier": "210006",
     "latitude": 47.46928,
     "longitude": -122.34222,
     "polygons": {
