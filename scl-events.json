@@ -1,89 +1,5 @@
 [
   {
-    "id": 1957961,
-    "startTime": 1768584451000,
-    "lastUpdatedTime": 1768585563000,
-    "etrTime": 1768606925000,
-    "title": "Outage",
-    "numPeople": 10,
-    "status": "Dispatched",
-    "cause": "Investigating",
-    "identifier": "210073",
-    "latitude": 47.66431,
-    "longitude": -122.40243,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.40173,
-            47.66414
-          ],
-          [
-            -122.40172,
-            47.664
-          ],
-          [
-            -122.40175,
-            47.66388
-          ],
-          [
-            -122.40191,
-            47.66373
-          ],
-          [
-            -122.40262,
-            47.6637
-          ],
-          [
-            -122.40278,
-            47.66374
-          ],
-          [
-            -122.40288,
-            47.66384
-          ],
-          [
-            -122.40293,
-            47.66395
-          ],
-          [
-            -122.40303,
-            47.66466
-          ],
-          [
-            -122.40299,
-            47.66483
-          ],
-          [
-            -122.40287,
-            47.66495
-          ],
-          [
-            -122.40271,
-            47.66499
-          ],
-          [
-            -122.40208,
-            47.66481
-          ],
-          [
-            -122.40184,
-            47.66453
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "North Seattle",
-    "state": "WA"
-  },
-  {
     "id": 1957889,
     "type": "PLANNED_OUTAGE",
     "startTime": 1768572777000,
@@ -271,10 +187,11 @@
   {
     "id": 1958011,
     "startTime": 1768597297000,
-    "lastUpdatedTime": 1768597924000,
+    "lastUpdatedTime": 1768598764000,
     "etrTime": 1768623061000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "210087",
     "latitude": 47.58588,
