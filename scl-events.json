@@ -1282,10 +1282,11 @@
   {
     "id": 1959038,
     "startTime": 1768944251000,
-    "lastUpdatedTime": 1768944844000,
+    "lastUpdatedTime": 1768949403000,
     "etrTime": 1768966379000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "210161",
     "latitude": 47.67739,
