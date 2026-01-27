@@ -188,10 +188,11 @@
   {
     "id": 2004868,
     "startTime": 1769490003000,
-    "lastUpdatedTime": 1769490362000,
+    "lastUpdatedTime": 1769496122000,
     "etrTime": 1769511958000,
     "title": "Outage",
     "numPeople": 2,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "210396",
     "latitude": 47.71812,
