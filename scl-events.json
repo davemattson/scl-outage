@@ -3,8 +3,8 @@
     "id": 2013933,
     "type": "PLANNED_OUTAGE",
     "startTime": 1769877180000,
-    "lastUpdatedTime": 1769877964000,
-    "etrTime": 1769910240000,
+    "lastUpdatedTime": 1769910362000,
+    "etrTime": 1769914800000,
     "title": "Planned Outage",
     "numPeople": 29,
     "status": "Dispatched",
@@ -93,10 +93,98 @@
     "state": "WA"
   },
   {
+    "id": 2014808,
+    "startTime": 1769904560000,
+    "lastUpdatedTime": 1769911203000,
+    "etrTime": 1769919000000,
+    "title": "Outage",
+    "numPeople": 8,
+    "status": "Dispatched",
+    "cause": "Equipment Failure",
+    "identifier": "210605",
+    "latitude": 47.66459,
+    "longitude": -122.28519,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.28476,
+            47.6646
+          ],
+          [
+            -122.28494,
+            47.66421
+          ],
+          [
+            -122.28508,
+            47.66409
+          ],
+          [
+            -122.28519,
+            47.66406
+          ],
+          [
+            -122.28532,
+            47.66407
+          ],
+          [
+            -122.28542,
+            47.66413
+          ],
+          [
+            -122.2855,
+            47.66423
+          ],
+          [
+            -122.28553,
+            47.66435
+          ],
+          [
+            -122.28554,
+            47.66478
+          ],
+          [
+            -122.28549,
+            47.66491
+          ],
+          [
+            -122.28537,
+            47.66502
+          ],
+          [
+            -122.28525,
+            47.66505
+          ],
+          [
+            -122.28502,
+            47.66505
+          ],
+          [
+            -122.28487,
+            47.665
+          ],
+          [
+            -122.28474,
+            47.66482
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "North Seattle",
+    "state": "WA"
+  },
+  {
     "id": 2013444,
     "startTime": 1769855820000,
-    "lastUpdatedTime": 1769900043000,
-    "etrTime": 1769907600000,
+    "lastUpdatedTime": 1769909163000,
+    "etrTime": 1769925600000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
