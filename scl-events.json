@@ -187,10 +187,11 @@
   {
     "id": 2030066,
     "startTime": 1771619082000,
-    "lastUpdatedTime": 1771619402000,
+    "lastUpdatedTime": 1771621443000,
     "etrTime": 1771641001000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "211331",
     "latitude": 47.69637,
