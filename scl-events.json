@@ -606,10 +606,11 @@
   {
     "id": 2030913,
     "startTime": 1771787629000,
-    "lastUpdatedTime": 1771787765000,
+    "lastUpdatedTime": 1771788964000,
     "etrTime": 1771809301000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "211380",
     "latitude": 47.49307,
