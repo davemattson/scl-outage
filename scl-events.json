@@ -770,7 +770,8 @@
   {
     "id": 2032103,
     "startTime": 1771997747000,
-    "lastUpdatedTime": 1771998244000,
+    "lastUpdatedTime": 1771998484000,
+    "etrTime": 1772019985000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
