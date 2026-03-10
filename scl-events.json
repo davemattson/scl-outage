@@ -522,7 +522,8 @@
   {
     "id": 2039011,
     "startTime": 1773179375000,
-    "lastUpdatedTime": 1773179405000,
+    "lastUpdatedTime": 1773180246000,
+    "etrTime": 1773201836000,
     "title": "Outage",
     "numPeople": 1,
     "cause": "Investigating",
