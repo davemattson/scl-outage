@@ -1022,9 +1022,11 @@
   {
     "id": 2056307,
     "startTime": 1774395854000,
-    "lastUpdatedTime": 1774395965000,
+    "lastUpdatedTime": 1774396685000,
+    "etrTime": 1774418174000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "213214",
     "latitude": 47.63814,
