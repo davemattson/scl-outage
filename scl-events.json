@@ -744,10 +744,11 @@
   {
     "id": 2056324,
     "startTime": 1774402322000,
-    "lastUpdatedTime": 1774435083000,
+    "lastUpdatedTime": 1774442163000,
     "etrTime": 1774465200000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Equipment Failure",
     "identifier": "213235",
     "latitude": 47.77388,
