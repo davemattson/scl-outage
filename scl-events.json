@@ -1,94 +1,5 @@
 [
   {
-    "id": 2060631,
-    "type": "PLANNED_OUTAGE",
-    "startTime": 1775146395000,
-    "lastUpdatedTime": 1775147283000,
-    "etrTime": 1775157221000,
-    "title": "Planned Outage",
-    "numPeople": 24,
-    "status": "Dispatched",
-    "cause": "Planned Outage",
-    "identifier": "213562",
-    "latitude": 47.56546,
-    "longitude": -122.36624,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.3668,
-            47.56579
-          ],
-          [
-            -122.36663,
-            47.56601
-          ],
-          [
-            -122.36646,
-            47.56607
-          ],
-          [
-            -122.366,
-            47.56605
-          ],
-          [
-            -122.36568,
-            47.56587
-          ],
-          [
-            -122.36558,
-            47.56576
-          ],
-          [
-            -122.36554,
-            47.56561
-          ],
-          [
-            -122.36568,
-            47.56501
-          ],
-          [
-            -122.36579,
-            47.56491
-          ],
-          [
-            -122.36592,
-            47.56487
-          ],
-          [
-            -122.36646,
-            47.56486
-          ],
-          [
-            -122.36662,
-            47.56492
-          ],
-          [
-            -122.3668,
-            47.56508
-          ],
-          [
-            -122.36686,
-            47.56521
-          ],
-          [
-            -122.36686,
-            47.56565
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "South Seattle",
-    "state": "WA"
-  },
-  {
     "id": 2060713,
     "startTime": 1775158489000,
     "lastUpdatedTime": 1775159283000,
@@ -457,9 +368,11 @@
   {
     "id": 2060746,
     "startTime": 1775163268000,
-    "lastUpdatedTime": 1775163363000,
+    "lastUpdatedTime": 1775163964000,
+    "etrTime": 1775185315000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "213585",
     "latitude": 47.50074,
