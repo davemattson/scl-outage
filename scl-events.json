@@ -2,10 +2,11 @@
   {
     "id": 2065955,
     "startTime": 1775827721000,
-    "lastUpdatedTime": 1775829724000,
+    "lastUpdatedTime": 1775834524000,
     "etrTime": 1775849958000,
     "title": "Outage",
     "numPeople": 28,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "213918",
     "latitude": 47.50201,
@@ -427,12 +428,106 @@
     "state": "WA"
   },
   {
+    "id": 2065991,
+    "type": "PLANNED_OUTAGE",
+    "startTime": 1775833789000,
+    "lastUpdatedTime": 1775834883000,
+    "etrTime": 1776029040000,
+    "title": "Planned Outage",
+    "numPeople": 2,
+    "status": "Dispatched",
+    "cause": "Planned Outage",
+    "identifier": "213922",
+    "latitude": 47.46569,
+    "longitude": -122.29017,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.2899,
+            47.46541
+          ],
+          [
+            -122.29001,
+            47.46534
+          ],
+          [
+            -122.29013,
+            47.46533
+          ],
+          [
+            -122.29025,
+            47.46536
+          ],
+          [
+            -122.29037,
+            47.46544
+          ],
+          [
+            -122.29044,
+            47.46555
+          ],
+          [
+            -122.29046,
+            47.46567
+          ],
+          [
+            -122.29044,
+            47.46579
+          ],
+          [
+            -122.29037,
+            47.46589
+          ],
+          [
+            -122.29023,
+            47.46598
+          ],
+          [
+            -122.29011,
+            47.466
+          ],
+          [
+            -122.28999,
+            47.46598
+          ],
+          [
+            -122.28985,
+            47.46589
+          ],
+          [
+            -122.28979,
+            47.46579
+          ],
+          [
+            -122.28976,
+            47.46565
+          ],
+          [
+            -122.2898,
+            47.46551
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "South Seattle",
+    "state": "WA"
+  },
+  {
     "id": 2065974,
     "startTime": 1775831329000,
-    "lastUpdatedTime": 1775832004000,
+    "lastUpdatedTime": 1775834765000,
     "etrTime": 1775857158000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "213920",
     "latitude": 47.54051,
@@ -520,9 +615,11 @@
   {
     "id": 2065990,
     "startTime": 1775833603000,
-    "lastUpdatedTime": 1775833684000,
+    "lastUpdatedTime": 1775835843000,
+    "etrTime": 1775855358000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "213921",
     "latitude": 47.62885,
