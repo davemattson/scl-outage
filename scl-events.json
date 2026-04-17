@@ -932,8 +932,8 @@
   {
     "id": 2077289,
     "type": "PLANNED_OUTAGE",
-    "startTime": 1776392639000,
-    "lastUpdatedTime": 1776452523000,
+    "startTime": 1776391182000,
+    "lastUpdatedTime": 1776457923000,
     "etrTime": 1776902400000,
     "title": "Planned Outage",
     "numPeople": 2,
