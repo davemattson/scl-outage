@@ -93,8 +93,8 @@
   {
     "id": 2094093,
     "startTime": 1778095407000,
-    "lastUpdatedTime": 1778099644000,
-    "etrTime": 1778121242000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 2,
     "status": "Dispatched",
@@ -185,8 +185,8 @@
   {
     "id": 2094091,
     "startTime": 1778099055000,
-    "lastUpdatedTime": 1778099644000,
-    "etrTime": 1778121242000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -275,11 +275,104 @@
     "state": "WA"
   },
   {
-    "id": 2094118,
-    "startTime": 1778103776000,
-    "lastUpdatedTime": 1778103843000,
+    "id": 2094120,
+    "startTime": 1778103996000,
+    "lastUpdatedTime": 1778104203000,
+    "etrTime": 1778125742000,
     "title": "Outage",
     "numPeople": 1,
+    "cause": "Investigating",
+    "identifier": "216035",
+    "latitude": 47.66233,
+    "longitude": -122.3732,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.37304,
+            47.66209
+          ],
+          [
+            -122.37315,
+            47.66203
+          ],
+          [
+            -122.37327,
+            47.66202
+          ],
+          [
+            -122.37339,
+            47.66205
+          ],
+          [
+            -122.37351,
+            47.66213
+          ],
+          [
+            -122.37358,
+            47.66223
+          ],
+          [
+            -122.3736,
+            47.66235
+          ],
+          [
+            -122.37358,
+            47.66247
+          ],
+          [
+            -122.37351,
+            47.66258
+          ],
+          [
+            -122.37337,
+            47.66267
+          ],
+          [
+            -122.37325,
+            47.66269
+          ],
+          [
+            -122.37313,
+            47.66267
+          ],
+          [
+            -122.37299,
+            47.66258
+          ],
+          [
+            -122.37292,
+            47.66247
+          ],
+          [
+            -122.3729,
+            47.66233
+          ],
+          [
+            -122.37294,
+            47.6622
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "North Seattle",
+    "state": "WA"
+  },
+  {
+    "id": 2094118,
+    "startTime": 1778103776000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
+    "title": "Outage",
+    "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "216034",
     "latitude": 47.51129,
@@ -367,8 +460,8 @@
   {
     "id": 2094115,
     "startTime": 1778102644000,
-    "lastUpdatedTime": 1778103843000,
-    "etrTime": 1778124842000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -457,101 +550,10 @@
     "state": "WA"
   },
   {
-    "id": 2094111,
-    "startTime": 1778102402000,
-    "lastUpdatedTime": 1778103364000,
-    "etrTime": 1778124842000,
-    "title": "Outage",
-    "numPeople": 1,
-    "cause": "Investigating",
-    "identifier": "216032",
-    "latitude": 47.77136,
-    "longitude": -122.34564,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.34548,
-            47.77112
-          ],
-          [
-            -122.34559,
-            47.77106
-          ],
-          [
-            -122.34571,
-            47.77104
-          ],
-          [
-            -122.34583,
-            47.77107
-          ],
-          [
-            -122.34595,
-            47.77116
-          ],
-          [
-            -122.34602,
-            47.77126
-          ],
-          [
-            -122.34604,
-            47.77138
-          ],
-          [
-            -122.34602,
-            47.7715
-          ],
-          [
-            -122.34595,
-            47.7716
-          ],
-          [
-            -122.34581,
-            47.77169
-          ],
-          [
-            -122.34569,
-            47.77172
-          ],
-          [
-            -122.34557,
-            47.77169
-          ],
-          [
-            -122.34543,
-            47.7716
-          ],
-          [
-            -122.34536,
-            47.7715
-          ],
-          [
-            -122.34534,
-            47.77136
-          ],
-          [
-            -122.34538,
-            47.77122
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "North Seattle",
-    "state": "WA"
-  },
-  {
     "id": 2094104,
     "startTime": 1778101404000,
-    "lastUpdatedTime": 1778103843000,
-    "etrTime": 1778123042000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -642,8 +644,8 @@
   {
     "id": 2094102,
     "startTime": 1778101173000,
-    "lastUpdatedTime": 1778103843000,
-    "etrTime": 1778123042000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -734,8 +736,8 @@
   {
     "id": 2094101,
     "startTime": 1778100904000,
-    "lastUpdatedTime": 1778103724000,
-    "etrTime": 1778123042000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -826,8 +828,8 @@
   {
     "id": 2094097,
     "startTime": 1778100116000,
-    "lastUpdatedTime": 1778103724000,
-    "etrTime": 1778122142000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -918,8 +920,8 @@
   {
     "id": 2094096,
     "startTime": 1778100180000,
-    "lastUpdatedTime": 1778103724000,
-    "etrTime": 1778122142000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1010,12 +1012,12 @@
   {
     "id": 2094094,
     "startTime": 1778099937000,
-    "lastUpdatedTime": 1778100602000,
+    "lastUpdatedTime": 1778104803000,
     "etrTime": 1778111342000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
-    "cause": "Investigating",
+    "cause": "Equipment Failure",
     "identifier": "216023",
     "latitude": 47.57531,
     "longitude": -122.298,
@@ -1102,8 +1104,8 @@
   {
     "id": 2093972,
     "startTime": 1778079313000,
-    "lastUpdatedTime": 1778080563000,
-    "etrTime": 1778101733000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1194,8 +1196,8 @@
   {
     "id": 2094089,
     "startTime": 1778099033000,
-    "lastUpdatedTime": 1778099644000,
-    "etrTime": 1778121242000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1286,8 +1288,8 @@
   {
     "id": 2094088,
     "startTime": 1778099017000,
-    "lastUpdatedTime": 1778099644000,
-    "etrTime": 1778121242000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1378,8 +1380,8 @@
   {
     "id": 2094083,
     "startTime": 1778098043000,
-    "lastUpdatedTime": 1778098805000,
-    "etrTime": 1778120342000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1470,8 +1472,8 @@
   {
     "id": 2094065,
     "startTime": 1778094794000,
-    "lastUpdatedTime": 1778095443000,
-    "etrTime": 1778116742000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1562,8 +1564,8 @@
   {
     "id": 2094064,
     "startTime": 1778094661000,
-    "lastUpdatedTime": 1778095323000,
-    "etrTime": 1778116742000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1654,8 +1656,8 @@
   {
     "id": 2094063,
     "startTime": 1778094240000,
-    "lastUpdatedTime": 1778095203000,
-    "etrTime": 1778116742000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1746,8 +1748,8 @@
   {
     "id": 2094054,
     "startTime": 1778092711000,
-    "lastUpdatedTime": 1778093403000,
-    "etrTime": 1778114942000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1838,8 +1840,8 @@
   {
     "id": 2094046,
     "startTime": 1778090851000,
-    "lastUpdatedTime": 1778093042000,
-    "etrTime": 1778113142000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -1930,8 +1932,8 @@
   {
     "id": 2094045,
     "startTime": 1778090670000,
-    "lastUpdatedTime": 1778093042000,
-    "etrTime": 1778113142000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -2022,8 +2024,8 @@
   {
     "id": 2094044,
     "startTime": 1778090521000,
-    "lastUpdatedTime": 1778093042000,
-    "etrTime": 1778112242000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
@@ -2114,8 +2116,8 @@
   {
     "id": 2094030,
     "startTime": 1778086995000,
-    "lastUpdatedTime": 1778093042000,
-    "etrTime": 1778108642000,
+    "lastUpdatedTime": 1778105883000,
+    "etrTime": 1778973360000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
