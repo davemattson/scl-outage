@@ -81,6 +81,94 @@
     "state": "WA"
   },
   {
+    "id": 2130510,
+    "startTime": 1781719007000,
+    "lastUpdatedTime": 1781724483000,
+    "etrTime": 1781738760000,
+    "title": "Outage",
+    "numPeople": 4,
+    "status": "Dispatched",
+    "cause": "Bird/Animal Contact",
+    "identifier": "218181",
+    "latitude": 47.65169,
+    "longitude": -122.41022,
+    "polygons": {
+      "type": "polygon",
+      "spatialReference": {
+        "latestWkid": 4326,
+        "wkid": 4326
+      },
+      "rings": [
+        [
+          [
+            -122.40987,
+            47.65215
+          ],
+          [
+            -122.40957,
+            47.6519
+          ],
+          [
+            -122.4095,
+            47.65178
+          ],
+          [
+            -122.4095,
+            47.65157
+          ],
+          [
+            -122.40962,
+            47.65141
+          ],
+          [
+            -122.40975,
+            47.65136
+          ],
+          [
+            -122.41071,
+            47.65128
+          ],
+          [
+            -122.41087,
+            47.65132
+          ],
+          [
+            -122.41097,
+            47.65142
+          ],
+          [
+            -122.41102,
+            47.65153
+          ],
+          [
+            -122.41102,
+            47.65165
+          ],
+          [
+            -122.41097,
+            47.65177
+          ],
+          [
+            -122.41088,
+            47.65185
+          ],
+          [
+            -122.41015,
+            47.65221
+          ],
+          [
+            -122.41001,
+            47.65221
+          ]
+        ]
+      ],
+      "hasZ": false,
+      "hasM": false
+    },
+    "city": "North Seattle",
+    "state": "WA"
+  },
+  {
     "id": 2130250,
     "type": "PLANNED_OUTAGE",
     "startTime": 1781710269000,
@@ -175,12 +263,14 @@
   },
   {
     "id": 2130494,
+    "type": "PLANNED_OUTAGE",
     "startTime": 1781718240000,
-    "lastUpdatedTime": 1781718844000,
-    "etrTime": 1781740391000,
-    "title": "Outage",
-    "numPeople": 1,
-    "cause": "Investigating",
+    "lastUpdatedTime": 1781719323000,
+    "etrTime": 1781913180000,
+    "title": "Planned Outage",
+    "numPeople": 2,
+    "status": "Dispatched",
+    "cause": "Planned Outage",
     "identifier": "218179",
     "latitude": 47.50421,
     "longitude": -122.24015,
