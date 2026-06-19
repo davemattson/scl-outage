@@ -1,105 +1,13 @@
 [
   {
-    "id": 2133426,
-    "startTime": 1781878920000,
-    "lastUpdatedTime": 1781887084000,
-    "etrTime": 1781904937000,
-    "title": "Outage",
-    "numPeople": 43,
-    "status": "Dispatched",
-    "cause": "Bird/Animal Contact",
-    "identifier": "218263",
-    "latitude": 47.61269,
-    "longitude": -122.30099,
-    "polygons": {
-      "type": "polygon",
-      "spatialReference": {
-        "latestWkid": 4326,
-        "wkid": 4326
-      },
-      "rings": [
-        [
-          [
-            -122.30078,
-            47.61243
-          ],
-          [
-            -122.30089,
-            47.61236
-          ],
-          [
-            -122.30101,
-            47.61235
-          ],
-          [
-            -122.30113,
-            47.61238
-          ],
-          [
-            -122.30125,
-            47.61246
-          ],
-          [
-            -122.30131,
-            47.61257
-          ],
-          [
-            -122.30134,
-            47.61269
-          ],
-          [
-            -122.30131,
-            47.61281
-          ],
-          [
-            -122.30125,
-            47.61291
-          ],
-          [
-            -122.30111,
-            47.613
-          ],
-          [
-            -122.30099,
-            47.61302
-          ],
-          [
-            -122.30087,
-            47.613
-          ],
-          [
-            -122.30073,
-            47.61291
-          ],
-          [
-            -122.30066,
-            47.61281
-          ],
-          [
-            -122.30064,
-            47.61267
-          ],
-          [
-            -122.30068,
-            47.61253
-          ]
-        ]
-      ],
-      "hasZ": false,
-      "hasM": false
-    },
-    "city": "South Seattle",
-    "state": "WA"
-  },
-  {
     "id": 2133441,
-    "startTime": 1781880486000,
-    "lastUpdatedTime": 1781881803000,
+    "startTime": 1781880480000,
+    "lastUpdatedTime": 1781898123000,
     "etrTime": 1781905837000,
     "title": "Outage",
     "numPeople": 1,
     "status": "Dispatched",
-    "cause": "Investigating",
+    "cause": "Bird/Animal Contact",
     "identifier": "218264",
     "latitude": 47.50204,
     "longitude": -122.33563,
