@@ -1061,10 +1061,11 @@
   {
     "id": 2159982,
     "startTime": 1783890907000,
-    "lastUpdatedTime": 1783891203000,
+    "lastUpdatedTime": 1783896123000,
     "etrTime": 1783912789000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "219360",
     "latitude": 47.52585,
