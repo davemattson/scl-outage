@@ -91,10 +91,11 @@
   {
     "id": 2178054,
     "startTime": 1785877570000,
-    "lastUpdatedTime": 1785878283000,
+    "lastUpdatedTime": 1785883323000,
     "etrTime": 1785899769000,
     "title": "Outage",
     "numPeople": 1,
+    "status": "Dispatched",
     "cause": "Investigating",
     "identifier": "220747",
     "latitude": 47.48793,
