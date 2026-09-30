@@ -2,8 +2,8 @@
   {
     "id": 2222981,
     "type": "PLANNED_OUTAGE",
-    "startTime": 1790734220000,
-    "lastUpdatedTime": 1790734445000,
+    "startTime": 1790734920000,
+    "lastUpdatedTime": 1790748005000,
     "etrTime": 1790762400000,
     "title": "Planned Outage",
     "numPeople": 266,
